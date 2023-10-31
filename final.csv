@@ -1,0 +1,1001 @@
+ContractID,ContractType,Department,VendorID,ContractValue,PaymentTerms,Payment_Method,IsFraud
+1,Services,Bridge and Highway,v5,85157.42,Net 60,Bank Transfer,true
+2,Supply,Engineering,v3,93557.04,Net 60,PayPal,true
+3,Supply,Engineering,v1,82070.33,Net 30,Bank Transfer,false
+4,Supply,Port,v1,73121.63,Net 30,Credit Card,false
+5,Construction,Port,v4,63455.6,Net 60,Credit Card,true
+6,Services,Engineering,v2,87042.38,Net 45,Credit Card,true
+7,Construction,Engineering,v3,804.52,Net 60,PayPal,true
+8,Services,Public Works,v5,61376.09,Net 45,Credit Card,false
+9,Supply,Bridge and Highway,v3,65441.66,Net 60,Credit Card,true
+10,Services,Bridge and Highway,v5,88643.74,Net 60,Credit Card,false
+11,Supply,Engineering,v1,65113.52,Net 60,PayPal,false
+12,Services,Public Works,v1,95594.02,Net 30,PayPal,true
+13,Construction,Airport,v2,56723.26,Net 60,Credit Card,true
+14,Supply,Airport,v5,49807.79,Net 45,Credit Card,true
+15,Services,Engineering,v3,30927.11,Net 45,Credit Card,true
+16,Construction,Engineering,v1,93117.62,Net 60,Credit Card,true
+17,Services,Public Works,v4,6092.28,Net 60,PayPal,false
+18,Construction,Engineering,v4,3551.71,Net 30,Credit Card,true
+19,Supply,Airport,v5,64943.38,Net 60,Credit Card,true
+20,Supply,Bridge and Highway,v1,75866.03,Net 60,Bank Transfer,false
+21,Supply,Port,v5,57916.7,Net 45,Credit Card,true
+22,Services,Public Works,v5,78716.81,Net 45,Bank Transfer,true
+23,Services,Engineering,v2,49277.45,Net 45,PayPal,false
+24,Services,Bridge and Highway,v5,83216.32,Net 60,Bank Transfer,true
+25,Services,Public Works,v5,69211.7,Net 60,Credit Card,true
+26,Services,Airport,v1,97055.08,Net 30,Bank Transfer,true
+27,Maintenance,Bridge and Highway,v5,24436.07,Net 60,Credit Card,false
+28,Services,Public Works,v5,67894.05,Net 60,Bank Transfer,false
+29,Supply,Engineering,v1,16622.15,Net 60,PayPal,false
+30,Services,Airport,v1,95545.29,Net 45,PayPal,true
+31,Services,Public Works,v1,97978.76,Net 60,Credit Card,true
+32,Supply,Public Works,v1,11651.54,Net 60,Bank Transfer,false
+33,Supply,Engineering,v1,50180.5,Net 30,Bank Transfer,false
+34,Supply,Port,v3,83542.32,Net 60,PayPal,true
+35,Supply,Engineering,v5,42190.96,Net 60,Credit Card,true
+36,Supply,Public Works,v5,4737.3,Net 45,Credit Card,false
+37,Maintenance,Transportation,v3,35103.46,Net 60,PayPal,false
+38,Services,Engineering,v5,7061.77,Net 45,Credit Card,false
+39,Supply,Engineering,v5,40070.88,Net 60,PayPal,false
+40,Services,Bridge and Highway,v3,29270.7,Net 45,PayPal,true
+41,Supply,Bridge and Highway,v4,69940.27,Net 45,Credit Card,true
+42,Services,Engineering,v2,30220.83,Net 60,PayPal,true
+43,Supply,Port,v2,29814.81,Net 60,Credit Card,true
+44,Supply,Engineering,v4,17648.41,Net 60,Credit Card,false
+45,Supply,Port,v3,94454.75,Net 45,Credit Card,false
+46,Services,Engineering,v5,98770.5,Net 60,Bank Transfer,false
+47,Services,Public Works,v4,78389.91,Net 60,Bank Transfer,true
+48,Supply,Public Works,v5,33803.68,Net 45,PayPal,false
+49,Maintenance,Bridge and Highway,v1,81381.63,Net 60,Credit Card,false
+50,Services,Engineering,v2,58893.56,Net 60,Credit Card,true
+51,Services,Public Works,v2,87883.91,Net 30,Credit Card,true
+52,Services,Engineering,v2,97827.04,Net 45,Credit Card,false
+53,Construction,Engineering,v3,86865.12,Net 60,PayPal,true
+54,Services,Bridge and Highway,v5,55055.97,Net 45,Bank Transfer,false
+55,Maintenance,Engineering,v1,54797.09,Net 45,Bank Transfer,false
+56,Maintenance,Engineering,v4,16624.44,Net 60,Bank Transfer,false
+57,Construction,Bridge and Highway,v5,52532.44,Net 60,PayPal,false
+58,Services,Public Works,v5,96172.25,Net 60,Credit Card,false
+59,Supply,Bridge and Highway,v2,57098.55,Net 60,Bank Transfer,false
+60,Services,Airport,v1,44368.45,Net 60,Credit Card,true
+61,Services,Transportation,v2,45466.24,Net 60,Credit Card,true
+62,Services,Port,v1,2261.66,Net 60,Credit Card,false
+63,Supply,Engineering,v1,75709.59,Net 60,Credit Card,true
+64,Services,Engineering,v2,5322.58,Net 45,Bank Transfer,false
+65,Services,Port,v4,92434.96,Net 45,PayPal,true
+66,Supply,Public Works,v5,6126.53,Net 60,Credit Card,true
+67,Services,Engineering,v2,44785.01,Net 45,Credit Card,false
+68,Construction,Public Works,v1,69336.95,Net 45,Credit Card,false
+69,Supply,Public Works,v1,30213.78,Net 60,Bank Transfer,true
+70,Construction,Port,v2,69864.05,Net 60,Bank Transfer,true
+71,Supply,Engineering,v2,1178.77,Net 60,Credit Card,true
+72,Services,Engineering,v1,22718.65,Net 60,Credit Card,true
+73,Construction,Public Works,v3,57213.05,Net 45,Bank Transfer,true
+74,Services,Engineering,v5,86960.51,Net 60,PayPal,false
+75,Construction,Engineering,v1,52970.36,Net 45,Bank Transfer,true
+76,Services,Public Works,v1,70945.21,Net 60,PayPal,true
+77,Services,Engineering,v5,5097.12,Net 60,Credit Card,true
+78,Supply,Engineering,v1,34502.55,Net 60,PayPal,false
+79,Services,Public Works,v4,74948.52,Net 60,Bank Transfer,true
+80,Maintenance,Engineering,v1,52509.84,Net 30,Credit Card,true
+81,Maintenance,Engineering,v2,5643.79,Net 60,PayPal,true
+82,Supply,Airport,v4,65339.72,Net 60,Bank Transfer,true
+83,Services,Public Works,v3,10358.15,Net 45,Credit Card,false
+84,Construction,Port,v3,20510.94,Net 45,Credit Card,false
+85,Services,Public Works,v1,36796.53,Net 45,Credit Card,true
+86,Supply,Airport,v4,49964.3,Net 60,Credit Card,false
+87,Services,Airport,v2,6089.28,Net 30,Credit Card,true
+88,Supply,Bridge and Highway,v4,48952.59,Net 45,PayPal,true
+89,Services,Engineering,v2,80451.66,Net 45,Credit Card,true
+90,Services,Engineering,v4,86602.51,Net 45,Credit Card,false
+91,Services,Engineering,v1,7817.49,Net 60,PayPal,true
+92,Services,Airport,v4,95136.99,Net 60,Bank Transfer,true
+93,Construction,Public Works,v3,8613.55,Net 45,Bank Transfer,true
+94,Construction,Port,v1,18077.53,Net 45,Credit Card,true
+95,Construction,Bridge and Highway,v2,68542.94,Net 30,Credit Card,true
+96,Services,Engineering,v2,86781.17,Net 30,PayPal,false
+97,Supply,Bridge and Highway,v1,5641.47,Net 60,Credit Card,false
+98,Construction,Port,v4,48265.37,Net 45,Bank Transfer,false
+99,Supply,Bridge and Highway,v3,53477.87,Net 60,Credit Card,false
+100,Maintenance,Engineering,v4,93804.49,Net 45,Credit Card,false
+101,Services,Engineering,v1,47211.47,Net 60,PayPal,false
+102,Construction,Public Works,v2,12935.74,Net 30,PayPal,false
+103,Supply,Engineering,v1,15865.3,Net 60,PayPal,true
+104,Services,Engineering,v1,20315.77,Net 60,PayPal,true
+105,Construction,Port,v3,48504.38,Net 45,Credit Card,true
+106,Supply,Engineering,v5,72876.5,Net 60,PayPal,false
+107,Services,Engineering,v5,44659.51,Net 45,Credit Card,false
+108,Supply,Engineering,v1,51784.2,Net 45,Credit Card,false
+109,Maintenance,Port,v5,2695.67,Net 60,PayPal,false
+110,Services,Engineering,v4,87081.9,Net 30,Bank Transfer,true
+111,Services,Public Works,v2,64478.4,Net 45,Bank Transfer,true
+112,Supply,Engineering,v2,31178.88,Net 30,PayPal,true
+113,Services,Bridge and Highway,v4,65174.37,Net 60,Credit Card,true
+114,Construction,Airport,v5,97890.81,Net 60,Credit Card,true
+115,Services,Engineering,v5,27682.59,Net 60,Credit Card,true
+116,Services,Engineering,v5,44673.93,Net 60,Bank Transfer,false
+117,Supply,Airport,v5,33553.63,Net 45,Bank Transfer,false
+118,Supply,Port,v1,22062.77,Net 60,Credit Card,true
+119,Services,Bridge and Highway,v2,17958.02,Net 30,PayPal,true
+120,Supply,Public Works,v2,37931.19,Net 30,Credit Card,false
+121,Services,Bridge and Highway,v1,10353.1,Net 60,PayPal,false
+122,Supply,Engineering,v4,56023.11,Net 45,Credit Card,false
+123,Services,Bridge and Highway,v1,66997.46,Net 45,Credit Card,true
+124,Maintenance,Airport,v5,25674.4,Net 60,Credit Card,true
+125,Services,Engineering,v2,93808.0,Net 60,Bank Transfer,false
+126,Supply,Public Works,v3,62519.75,Net 60,Credit Card,true
+127,Supply,Engineering,v1,58607.65,Net 60,PayPal,true
+128,Services,Port,v1,79117.65,Net 60,Bank Transfer,false
+129,Services,Transportation,v5,92329.32,Net 60,Credit Card,true
+130,Supply,Airport,v4,87710.72,Net 45,PayPal,false
+131,Services,Airport,v1,15910.64,Net 60,Credit Card,true
+132,Maintenance,Public Works,v2,68037.09,Net 45,PayPal,false
+133,Supply,Transportation,v2,84119.43,Net 45,PayPal,true
+134,Supply,Public Works,v5,86761.54,Net 45,Bank Transfer,false
+135,Services,Engineering,v1,28372.17,Net 60,Credit Card,true
+136,Construction,Port,v2,93361.39,Net 60,PayPal,false
+137,Services,Port,v1,15768.58,Net 45,PayPal,false
+138,Supply,Engineering,v1,13073.28,Net 45,Credit Card,false
+139,Services,Engineering,v1,58617.64,Net 60,Credit Card,false
+140,Services,Engineering,v2,7570.19,Net 60,Credit Card,false
+141,Supply,Port,v3,64401.11,Net 60,Credit Card,false
+142,Services,Port,v1,7985.11,Net 60,PayPal,true
+143,Services,Engineering,v1,44674.97,Net 30,Credit Card,true
+144,Construction,Port,v5,77428.0,Net 30,Credit Card,true
+145,Supply,Airport,v2,63004.91,Net 60,Credit Card,false
+146,Services,Airport,v2,61472.8,Net 60,PayPal,false
+147,Supply,Airport,v3,93879.08,Net 30,Credit Card,false
+148,Construction,Engineering,v3,44590.08,Net 30,Credit Card,true
+149,Construction,Port,v2,43798.11,Net 30,Credit Card,false
+150,Supply,Bridge and Highway,v5,74432.78,Net 60,Credit Card,true
+151,Services,Engineering,v2,79748.02,Net 45,Bank Transfer,false
+152,Construction,Transportation,v2,6652.79,Net 60,Credit Card,false
+153,Services,Port,v3,31657.71,Net 30,Bank Transfer,false
+154,Services,Airport,v2,66096.61,Net 45,Credit Card,true
+155,Supply,Engineering,v5,44473.16,Net 45,Bank Transfer,true
+156,Services,Bridge and Highway,v3,43231.47,Net 60,Bank Transfer,true
+157,Supply,Port,v2,35788.4,Net 30,PayPal,true
+158,Construction,Port,v4,21267.66,Net 45,Credit Card,true
+159,Maintenance,Engineering,v5,81541.08,Net 60,PayPal,true
+160,Construction,Port,v5,76262.52,Net 30,Bank Transfer,false
+161,Services,Port,v3,41916.31,Net 30,PayPal,true
+162,Supply,Airport,v2,87914.5,Net 45,Credit Card,true
+163,Services,Port,v5,22032.72,Net 60,Credit Card,false
+164,Services,Bridge and Highway,v5,25470.75,Net 30,Credit Card,false
+165,Services,Public Works,v2,69321.63,Net 60,PayPal,false
+166,Services,Engineering,v1,24427.01,Net 60,Credit Card,false
+167,Supply,Port,v2,45347.13,Net 60,PayPal,false
+168,Services,Public Works,v1,21506.87,Net 60,Credit Card,true
+169,Supply,Engineering,v1,23289.81,Net 60,PayPal,false
+170,Maintenance,Bridge and Highway,v4,50474.02,Net 30,PayPal,false
+171,Supply,Bridge and Highway,v4,39359.12,Net 60,Credit Card,false
+172,Services,Airport,v2,25877.37,Net 60,Credit Card,true
+173,Services,Public Works,v5,8614.28,Net 45,Credit Card,true
+174,Supply,Engineering,v5,30211.58,Net 30,Credit Card,false
+175,Construction,Engineering,v1,15153.75,Net 60,Credit Card,false
+176,Construction,Engineering,v1,59417.86,Net 60,Credit Card,true
+177,Services,Transportation,v4,9524.96,Net 60,Credit Card,false
+178,Services,Engineering,v5,53447.01,Net 60,Credit Card,false
+179,Services,Airport,v3,64709.98,Net 60,Bank Transfer,false
+180,Supply,Port,v2,95907.47,Net 60,PayPal,false
+181,Supply,Airport,v2,52481.88,Net 60,PayPal,false
+182,Construction,Public Works,v5,75857.03,Net 45,Credit Card,true
+183,Services,Bridge and Highway,v3,44933.22,Net 60,PayPal,true
+184,Services,Engineering,v1,98406.43,Net 60,Credit Card,false
+185,Supply,Public Works,v2,75840.23,Net 45,PayPal,false
+186,Supply,Engineering,v2,20981.06,Net 60,Credit Card,true
+187,Services,Port,v2,78131.54,Net 45,Bank Transfer,false
+188,Supply,Bridge and Highway,v1,43336.54,Net 45,PayPal,true
+189,Services,Public Works,v5,58527.16,Net 30,Credit Card,false
+190,Maintenance,Engineering,v1,96748.5,Net 60,Credit Card,false
+191,Supply,Engineering,v1,12214.9,Net 45,Credit Card,true
+192,Construction,Public Works,v1,80303.63,Net 60,Credit Card,false
+193,Services,Engineering,v1,71968.02,Net 60,Bank Transfer,false
+194,Supply,Engineering,v3,5699.19,Net 30,Bank Transfer,true
+195,Services,Port,v5,60135.76,Net 45,Bank Transfer,true
+196,Maintenance,Engineering,v2,5598.49,Net 60,PayPal,true
+197,Supply,Engineering,v4,59329.05,Net 45,Credit Card,true
+198,Services,Engineering,v2,58296.81,Net 60,PayPal,false
+199,Services,Airport,v2,6918.34,Net 60,Credit Card,true
+200,Services,Engineering,v1,26072.87,Net 45,PayPal,true
+201,Maintenance,Airport,v1,70059.37,Net 30,PayPal,false
+202,Services,Port,v4,897.58,Net 45,Credit Card,false
+203,Services,Port,v5,24695.0,Net 45,Credit Card,true
+204,Construction,Bridge and Highway,v1,72386.0,Net 60,Credit Card,true
+205,Services,Port,v1,96598.36,Net 45,Credit Card,true
+206,Services,Transportation,v4,56282.35,Net 30,Credit Card,false
+207,Services,Bridge and Highway,v4,32027.96,Net 30,Credit Card,false
+208,Supply,Engineering,v3,61314.12,Net 45,Bank Transfer,true
+209,Services,Engineering,v3,43640.7,Net 30,Credit Card,true
+210,Supply,Engineering,v3,35761.67,Net 45,PayPal,false
+211,Services,Engineering,v5,34018.84,Net 60,Credit Card,true
+212,Services,Engineering,v1,94229.11,Net 60,Credit Card,true
+213,Supply,Engineering,v1,7129.54,Net 60,Credit Card,false
+214,Supply,Port,v3,27239.03,Net 60,Bank Transfer,true
+215,Maintenance,Bridge and Highway,v4,6711.14,Net 45,PayPal,false
+216,Services,Engineering,v3,14751.62,Net 45,Credit Card,true
+217,Services,Engineering,v4,20162.18,Net 60,Credit Card,true
+218,Supply,Engineering,v1,60272.62,Net 60,Credit Card,false
+219,Maintenance,Port,v5,43351.22,Net 60,PayPal,true
+220,Services,Bridge and Highway,v5,38429.55,Net 45,PayPal,false
+221,Supply,Airport,v5,27417.24,Net 60,PayPal,false
+222,Supply,Public Works,v5,38194.15,Net 60,Credit Card,false
+223,Services,Bridge and Highway,v1,39802.97,Net 60,Bank Transfer,true
+224,Services,Bridge and Highway,v2,80925.13,Net 60,PayPal,true
+225,Services,Public Works,v5,77165.96,Net 45,Credit Card,false
+226,Services,Engineering,v5,34675.75,Net 45,Credit Card,false
+227,Services,Public Works,v3,75452.01,Net 45,Credit Card,true
+228,Construction,Public Works,v2,89704.67,Net 45,Credit Card,false
+229,Services,Bridge and Highway,v5,13835.77,Net 60,Credit Card,true
+230,Construction,Engineering,v1,2172.07,Net 60,Credit Card,false
+231,Services,Engineering,v3,58752.38,Net 60,Bank Transfer,false
+232,Construction,Engineering,v2,83279.71,Net 60,PayPal,true
+233,Construction,Engineering,v2,80257.25,Net 30,PayPal,false
+234,Services,Engineering,v4,22866.43,Net 60,Credit Card,false
+235,Services,Bridge and Highway,v5,92887.93,Net 45,Bank Transfer,false
+236,Maintenance,Transportation,v4,86602.45,Net 30,Bank Transfer,false
+237,Services,Engineering,v2,73781.55,Net 60,PayPal,true
+238,Supply,Engineering,v3,54259.38,Net 60,Credit Card,false
+239,Services,Engineering,v4,70619.52,Net 60,Bank Transfer,true
+240,Maintenance,Engineering,v1,87505.54,Net 60,PayPal,false
+241,Construction,Engineering,v2,14885.29,Net 60,PayPal,true
+242,Supply,Engineering,v1,77882.07,Net 30,Bank Transfer,false
+243,Supply,Engineering,v2,79859.35,Net 60,Bank Transfer,false
+244,Construction,Bridge and Highway,v2,17356.09,Net 60,Credit Card,false
+245,Supply,Public Works,v5,37702.96,Net 45,Bank Transfer,false
+246,Services,Bridge and Highway,v3,3503.53,Net 60,PayPal,false
+247,Construction,Bridge and Highway,v1,33958.72,Net 45,PayPal,false
+248,Construction,Engineering,v5,60001.0,Net 60,Bank Transfer,true
+249,Maintenance,Port,v4,86931.02,Net 60,Bank Transfer,false
+250,Services,Engineering,v5,23972.69,Net 60,Credit Card,false
+251,Supply,Engineering,v1,26562.51,Net 60,PayPal,true
+252,Services,Engineering,v2,44936.97,Net 60,Credit Card,false
+253,Construction,Engineering,v1,41974.73,Net 60,PayPal,false
+254,Supply,Engineering,v5,33763.73,Net 30,PayPal,false
+255,Services,Engineering,v1,80284.99,Net 60,Credit Card,true
+256,Supply,Airport,v1,18286.29,Net 60,Bank Transfer,true
+257,Services,Engineering,v5,98669.52,Net 30,Credit Card,true
+258,Services,Airport,v5,54290.34,Net 30,PayPal,true
+259,Services,Airport,v4,33057.37,Net 45,PayPal,false
+260,Services,Bridge and Highway,v5,25547.32,Net 60,Credit Card,false
+261,Services,Port,v4,45018.94,Net 45,Credit Card,false
+262,Construction,Engineering,v3,61670.12,Net 45,Bank Transfer,true
+263,Construction,Port,v1,53376.09,Net 60,Credit Card,false
+264,Maintenance,Bridge and Highway,v5,15271.37,Net 60,PayPal,false
+265,Construction,Public Works,v4,77982.8,Net 45,PayPal,true
+266,Supply,Public Works,v4,42335.85,Net 45,Credit Card,true
+267,Services,Bridge and Highway,v3,19544.78,Net 45,Bank Transfer,true
+268,Maintenance,Bridge and Highway,v5,64650.96,Net 30,Credit Card,false
+269,Supply,Bridge and Highway,v2,21003.16,Net 45,PayPal,false
+270,Construction,Bridge and Highway,v5,22575.59,Net 45,PayPal,true
+271,Construction,Port,v1,99118.76,Net 60,Credit Card,false
+272,Services,Bridge and Highway,v4,7762.98,Net 60,PayPal,true
+273,Services,Engineering,v1,95385.03,Net 30,PayPal,true
+274,Services,Port,v4,6373.88,Net 45,Credit Card,true
+275,Services,Engineering,v5,18196.34,Net 30,Bank Transfer,false
+276,Services,Engineering,v2,65887.17,Net 60,Credit Card,true
+277,Services,Airport,v1,40889.75,Net 60,PayPal,false
+278,Maintenance,Engineering,v1,60534.14,Net 60,Credit Card,false
+279,Supply,Bridge and Highway,v5,24271.68,Net 60,Credit Card,true
+280,Services,Port,v4,40626.92,Net 45,Credit Card,true
+281,Supply,Engineering,v2,62054.62,Net 30,Bank Transfer,false
+282,Services,Engineering,v3,7691.07,Net 30,Credit Card,false
+283,Services,Bridge and Highway,v2,63384.0,Net 45,Credit Card,true
+284,Services,Public Works,v4,93361.59,Net 30,Credit Card,false
+285,Services,Bridge and Highway,v3,88643.29,Net 60,Credit Card,true
+286,Construction,Engineering,v3,24766.33,Net 60,Credit Card,false
+287,Construction,Bridge and Highway,v1,36879.44,Net 45,Credit Card,false
+288,Construction,Engineering,v1,6255.5,Net 60,Credit Card,false
+289,Supply,Public Works,v1,87519.76,Net 60,Credit Card,false
+290,Supply,Engineering,v1,9779.1,Net 60,Credit Card,false
+291,Construction,Bridge and Highway,v3,92962.85,Net 45,PayPal,false
+292,Maintenance,Public Works,v2,43111.23,Net 60,Credit Card,true
+293,Construction,Port,v5,42728.44,Net 60,PayPal,true
+294,Services,Engineering,v4,93284.85,Net 60,PayPal,true
+295,Supply,Bridge and Highway,v5,89179.93,Net 60,Credit Card,true
+296,Construction,Airport,v3,19599.01,Net 30,Credit Card,true
+297,Supply,Public Works,v1,89190.21,Net 60,PayPal,true
+298,Services,Airport,v2,84506.19,Net 45,Credit Card,false
+299,Construction,Engineering,v5,27367.02,Net 45,Credit Card,true
+300,Construction,Public Works,v4,80133.66,Net 30,Credit Card,false
+301,Services,Airport,v5,34206.15,Net 45,PayPal,true
+302,Construction,Public Works,v5,27313.27,Net 60,Credit Card,true
+303,Supply,Engineering,v1,23511.36,Net 60,Credit Card,true
+304,Supply,Public Works,v5,1232.91,Net 60,PayPal,true
+305,Construction,Engineering,v5,12187.29,Net 45,Bank Transfer,true
+306,Supply,Transportation,v5,57137.4,Net 60,PayPal,false
+307,Supply,Port,v1,43229.19,Net 30,PayPal,true
+308,Supply,Engineering,v5,25644.73,Net 60,PayPal,true
+309,Supply,Public Works,v1,11249.45,Net 60,Credit Card,true
+310,Supply,Public Works,v5,64767.74,Net 60,Bank Transfer,false
+311,Services,Engineering,v2,10870.12,Net 30,Credit Card,true
+312,Supply,Engineering,v3,48386.73,Net 30,Credit Card,false
+313,Services,Bridge and Highway,v1,12877.34,Net 60,PayPal,true
+314,Supply,Transportation,v2,8187.32,Net 60,Credit Card,true
+315,Construction,Port,v1,56767.28,Net 45,Credit Card,false
+316,Supply,Bridge and Highway,v5,35888.79,Net 45,PayPal,true
+317,Services,Airport,v1,82049.83,Net 60,Credit Card,false
+318,Construction,Engineering,v2,38519.64,Net 45,Credit Card,true
+319,Services,Engineering,v4,40087.59,Net 30,PayPal,false
+320,Maintenance,Airport,v2,95564.28,Net 60,PayPal,true
+321,Supply,Engineering,v1,11832.9,Net 45,Credit Card,true
+322,Services,Engineering,v1,56781.52,Net 45,PayPal,true
+323,Services,Public Works,v5,21549.05,Net 45,PayPal,false
+324,Maintenance,Engineering,v3,49264.28,Net 30,Credit Card,false
+325,Supply,Public Works,v4,67453.52,Net 60,Bank Transfer,true
+326,Supply,Engineering,v2,69245.43,Net 45,Credit Card,true
+327,Supply,Engineering,v1,27523.65,Net 60,Credit Card,true
+328,Services,Airport,v2,91688.58,Net 60,PayPal,false
+329,Services,Bridge and Highway,v5,68497.46,Net 60,Credit Card,false
+330,Services,Public Works,v5,6743.77,Net 60,PayPal,false
+331,Maintenance,Airport,v1,1335.53,Net 60,Credit Card,true
+332,Supply,Engineering,v5,61038.93,Net 60,Bank Transfer,true
+333,Construction,Port,v1,35095.86,Net 30,Credit Card,true
+334,Construction,Port,v5,71317.96,Net 30,Credit Card,false
+335,Supply,Transportation,v2,43702.61,Net 30,Credit Card,true
+336,Services,Transportation,v1,2278.78,Net 30,Credit Card,true
+337,Construction,Public Works,v4,80368.93,Net 60,Credit Card,false
+338,Supply,Engineering,v1,45983.03,Net 45,PayPal,false
+339,Supply,Engineering,v1,56719.52,Net 45,PayPal,false
+340,Services,Engineering,v2,36680.79,Net 45,Credit Card,false
+341,Services,Engineering,v5,22093.52,Net 45,Credit Card,true
+342,Services,Public Works,v4,97042.29,Net 45,PayPal,false
+343,Construction,Public Works,v5,9197.73,Net 30,PayPal,false
+344,Services,Engineering,v1,4231.35,Net 30,Credit Card,false
+345,Construction,Engineering,v1,5250.45,Net 60,PayPal,true
+346,Services,Port,v3,71650.72,Net 45,Credit Card,true
+347,Maintenance,Bridge and Highway,v1,60531.5,Net 45,PayPal,true
+348,Construction,Engineering,v1,21924.78,Net 45,Bank Transfer,false
+349,Supply,Engineering,v1,93642.23,Net 60,Credit Card,false
+350,Supply,Public Works,v5,47310.07,Net 60,PayPal,true
+351,Construction,Engineering,v5,48076.25,Net 60,Bank Transfer,false
+352,Maintenance,Port,v1,73952.69,Net 60,Credit Card,false
+353,Construction,Public Works,v1,47534.19,Net 30,Credit Card,true
+354,Construction,Port,v4,6436.66,Net 60,PayPal,false
+355,Supply,Public Works,v2,81330.61,Net 30,PayPal,false
+356,Supply,Engineering,v2,77400.46,Net 60,Credit Card,true
+357,Supply,Public Works,v5,31084.21,Net 45,PayPal,false
+358,Services,Port,v2,84145.27,Net 60,Bank Transfer,false
+359,Supply,Engineering,v1,78035.98,Net 60,Credit Card,false
+360,Services,Public Works,v1,78257.3,Net 60,Credit Card,false
+361,Services,Engineering,v4,83507.94,Net 60,Credit Card,false
+362,Supply,Port,v1,39825.19,Net 30,Bank Transfer,true
+363,Construction,Engineering,v4,48176.11,Net 45,PayPal,false
+364,Services,Engineering,v4,27738.3,Net 45,Credit Card,true
+365,Supply,Engineering,v1,85282.1,Net 45,Credit Card,false
+366,Supply,Engineering,v5,84247.97,Net 30,Credit Card,false
+367,Supply,Airport,v1,55664.14,Net 30,Credit Card,true
+368,Maintenance,Bridge and Highway,v1,56560.36,Net 45,Bank Transfer,false
+369,Services,Public Works,v5,28833.93,Net 45,Bank Transfer,false
+370,Supply,Bridge and Highway,v2,41246.42,Net 60,Credit Card,false
+371,Services,Engineering,v5,85811.07,Net 30,PayPal,false
+372,Services,Airport,v4,13547.55,Net 45,Bank Transfer,false
+373,Services,Port,v1,49207.63,Net 45,Credit Card,false
+374,Supply,Transportation,v1,25975.86,Net 60,Credit Card,false
+375,Maintenance,Bridge and Highway,v5,15519.73,Net 45,Credit Card,false
+376,Supply,Airport,v1,48917.95,Net 60,Credit Card,false
+377,Services,Engineering,v1,68981.21,Net 60,Credit Card,true
+378,Services,Public Works,v5,88994.19,Net 45,Credit Card,true
+379,Construction,Public Works,v4,17366.53,Net 30,Credit Card,false
+380,Construction,Port,v1,81381.89,Net 30,PayPal,true
+381,Services,Public Works,v4,34487.29,Net 45,PayPal,true
+382,Services,Port,v4,50514.12,Net 45,Bank Transfer,false
+383,Supply,Engineering,v4,40073.72,Net 60,PayPal,false
+384,Services,Engineering,v4,60639.1,Net 60,PayPal,false
+385,Supply,Engineering,v1,10710.64,Net 45,Bank Transfer,false
+386,Services,Bridge and Highway,v1,47444.58,Net 60,PayPal,false
+387,Supply,Port,v1,54857.81,Net 60,Credit Card,false
+388,Supply,Bridge and Highway,v3,64048.73,Net 60,PayPal,true
+389,Services,Public Works,v5,11166.77,Net 60,Bank Transfer,true
+390,Supply,Public Works,v1,16124.79,Net 60,Credit Card,false
+391,Construction,Public Works,v1,82447.95,Net 30,Credit Card,true
+392,Construction,Engineering,v4,7090.03,Net 30,Credit Card,false
+393,Supply,Airport,v3,25264.56,Net 60,Credit Card,true
+394,Supply,Engineering,v3,52050.51,Net 30,Credit Card,false
+395,Services,Port,v1,57609.48,Net 60,Credit Card,false
+396,Services,Engineering,v1,56625.96,Net 30,Credit Card,false
+397,Construction,Engineering,v1,97950.34,Net 45,PayPal,true
+398,Maintenance,Public Works,v1,92481.28,Net 30,Bank Transfer,false
+399,Services,Engineering,v3,11602.61,Net 45,PayPal,false
+400,Services,Transportation,v4,13850.04,Net 45,Credit Card,true
+401,Services,Port,v3,22284.53,Net 45,Credit Card,false
+402,Maintenance,Engineering,v5,98312.8,Net 60,Credit Card,false
+403,Services,Public Works,v3,997.3,Net 60,Credit Card,true
+404,Supply,Public Works,v2,12329.54,Net 45,Bank Transfer,false
+405,Maintenance,Bridge and Highway,v5,14462.53,Net 45,Credit Card,true
+406,Maintenance,Port,v4,35652.82,Net 60,Credit Card,true
+407,Services,Engineering,v5,99912.66,Net 60,Credit Card,true
+408,Supply,Engineering,v5,72221.55,Net 30,Credit Card,true
+409,Services,Public Works,v5,78858.3,Net 30,PayPal,true
+410,Services,Engineering,v5,80355.56,Net 60,Bank Transfer,false
+411,Services,Engineering,v2,41578.77,Net 45,Credit Card,true
+412,Supply,Port,v1,97914.93,Net 60,Bank Transfer,true
+413,Services,Engineering,v1,90662.93,Net 45,PayPal,true
+414,Supply,Bridge and Highway,v1,68858.45,Net 45,Bank Transfer,false
+415,Services,Airport,v4,73029.87,Net 45,Bank Transfer,false
+416,Construction,Public Works,v5,9809.06,Net 45,PayPal,false
+417,Services,Transportation,v2,7215.76,Net 30,Credit Card,true
+418,Services,Public Works,v2,5067.04,Net 45,Credit Card,true
+419,Maintenance,Public Works,v3,26613.64,Net 60,PayPal,false
+420,Construction,Engineering,v4,53160.19,Net 60,PayPal,true
+421,Services,Public Works,v2,17614.16,Net 30,Bank Transfer,true
+422,Supply,Public Works,v5,93879.11,Net 60,Credit Card,true
+423,Services,Engineering,v2,53054.92,Net 60,Credit Card,false
+424,Services,Airport,v4,95231.13,Net 45,Credit Card,true
+425,Services,Bridge and Highway,v1,60552.82,Net 60,Bank Transfer,false
+426,Services,Bridge and Highway,v3,56997.19,Net 60,Credit Card,true
+427,Supply,Bridge and Highway,v5,63831.87,Net 60,Credit Card,false
+428,Supply,Bridge and Highway,v3,69532.73,Net 45,Credit Card,false
+429,Supply,Public Works,v1,7523.19,Net 30,Credit Card,true
+430,Construction,Engineering,v2,54738.84,Net 60,PayPal,true
+431,Services,Transportation,v1,15305.41,Net 60,Credit Card,true
+432,Construction,Bridge and Highway,v1,43334.46,Net 45,Credit Card,false
+433,Maintenance,Engineering,v2,86744.33,Net 30,PayPal,true
+434,Services,Port,v1,66798.23,Net 45,Credit Card,true
+435,Services,Engineering,v4,98217.99,Net 60,PayPal,false
+436,Services,Bridge and Highway,v1,78275.04,Net 30,Credit Card,false
+437,Supply,Engineering,v1,92968.47,Net 45,PayPal,false
+438,Maintenance,Bridge and Highway,v1,70651.81,Net 60,Credit Card,true
+439,Supply,Engineering,v4,24417.44,Net 60,PayPal,true
+440,Construction,Public Works,v1,45336.87,Net 60,Credit Card,false
+441,Services,Engineering,v1,63932.85,Net 60,Credit Card,true
+442,Services,Bridge and Highway,v4,79456.71,Net 60,Credit Card,false
+443,Supply,Port,v5,22172.69,Net 30,PayPal,false
+444,Construction,Bridge and Highway,v5,21526.89,Net 45,Credit Card,true
+445,Construction,Engineering,v4,8145.37,Net 30,Credit Card,false
+446,Construction,Bridge and Highway,v1,70640.47,Net 60,PayPal,true
+447,Services,Bridge and Highway,v2,74419.62,Net 60,Credit Card,false
+448,Services,Engineering,v5,87939.46,Net 60,PayPal,true
+449,Construction,Engineering,v1,29014.25,Net 60,Credit Card,true
+450,Services,Engineering,v5,80105.02,Net 60,PayPal,false
+451,Construction,Public Works,v5,81432.04,Net 45,Credit Card,true
+452,Supply,Airport,v5,81124.77,Net 30,PayPal,true
+453,Construction,Bridge and Highway,v5,76592.26,Net 30,PayPal,false
+454,Supply,Bridge and Highway,v2,66255.08,Net 45,Credit Card,true
+455,Construction,Engineering,v1,2007.94,Net 60,Credit Card,true
+456,Construction,Airport,v4,75285.68,Net 60,PayPal,true
+457,Supply,Port,v2,51863.3,Net 30,PayPal,true
+458,Services,Engineering,v3,58188.55,Net 45,Bank Transfer,false
+459,Services,Engineering,v1,4489.66,Net 45,PayPal,false
+460,Services,Airport,v1,37808.48,Net 30,Credit Card,false
+461,Supply,Engineering,v5,4449.0,Net 60,PayPal,true
+462,Services,Public Works,v1,42475.61,Net 60,Credit Card,true
+463,Services,Engineering,v5,25017.99,Net 30,PayPal,true
+464,Services,Public Works,v1,29664.52,Net 60,Bank Transfer,false
+465,Supply,Public Works,v5,62532.93,Net 60,Bank Transfer,true
+466,Services,Engineering,v3,45731.28,Net 60,Credit Card,false
+467,Maintenance,Public Works,v1,76586.72,Net 30,Bank Transfer,true
+468,Maintenance,Public Works,v1,86438.36,Net 60,Bank Transfer,true
+469,Maintenance,Engineering,v1,81677.24,Net 60,Credit Card,true
+470,Services,Engineering,v1,68728.79,Net 45,Credit Card,false
+471,Maintenance,Engineering,v1,78.13,Net 60,Bank Transfer,false
+472,Services,Engineering,v5,51905.1,Net 60,Credit Card,true
+473,Services,Bridge and Highway,v5,17237.29,Net 60,PayPal,true
+474,Services,Public Works,v5,54613.22,Net 60,Bank Transfer,true
+475,Construction,Engineering,v4,25041.14,Net 45,Credit Card,false
+476,Services,Bridge and Highway,v4,12291.53,Net 60,Credit Card,false
+477,Services,Engineering,v5,86800.63,Net 45,Bank Transfer,true
+478,Supply,Engineering,v1,74318.2,Net 30,Credit Card,false
+479,Construction,Engineering,v1,88445.62,Net 60,Credit Card,false
+480,Supply,Transportation,v3,3151.09,Net 60,PayPal,true
+481,Services,Public Works,v5,34030.61,Net 45,PayPal,true
+482,Services,Engineering,v2,26564.79,Net 45,PayPal,true
+483,Construction,Public Works,v3,17410.98,Net 60,Credit Card,true
+484,Construction,Port,v1,68417.58,Net 30,PayPal,true
+485,Maintenance,Transportation,v5,60482.26,Net 30,PayPal,false
+486,Supply,Public Works,v1,80106.38,Net 60,Credit Card,true
+487,Construction,Engineering,v5,28940.75,Net 30,Credit Card,true
+488,Services,Airport,v2,27081.2,Net 60,Credit Card,true
+489,Supply,Engineering,v1,34403.41,Net 60,Credit Card,true
+490,Services,Engineering,v4,17090.76,Net 45,PayPal,false
+491,Services,Bridge and Highway,v4,52072.72,Net 30,Credit Card,false
+492,Supply,Engineering,v4,92383.96,Net 60,PayPal,true
+493,Services,Public Works,v1,68073.05,Net 45,PayPal,false
+494,Services,Engineering,v5,38530.95,Net 45,Credit Card,true
+495,Maintenance,Airport,v1,28744.87,Net 60,Credit Card,false
+496,Services,Public Works,v1,99449.9,Net 60,PayPal,true
+497,Services,Engineering,v3,55873.81,Net 45,Credit Card,false
+498,Services,Transportation,v5,60813.08,Net 60,PayPal,false
+499,Supply,Engineering,v3,79139.48,Net 60,Bank Transfer,true
+500,Supply,Public Works,v5,9884.24,Net 45,Credit Card,false
+501,Construction,Engineering,v4,18019.91,Net 60,Credit Card,false
+502,Supply,Port,v2,94758.2,Net 30,PayPal,false
+503,Supply,Bridge and Highway,v3,53553.5,Net 60,Credit Card,true
+504,Services,Engineering,v1,53335.18,Net 60,Credit Card,true
+505,Services,Engineering,v2,23404.45,Net 45,Credit Card,false
+506,Construction,Engineering,v5,42575.95,Net 30,Credit Card,true
+507,Construction,Engineering,v1,70129.94,Net 60,Credit Card,true
+508,Supply,Public Works,v2,87395.98,Net 30,Bank Transfer,false
+509,Supply,Engineering,v2,57234.42,Net 60,Credit Card,false
+510,Supply,Public Works,v1,84164.4,Net 60,PayPal,true
+511,Services,Public Works,v4,24497.48,Net 45,Credit Card,false
+512,Services,Airport,v3,29726.78,Net 45,Credit Card,false
+513,Services,Engineering,v1,10231.72,Net 60,PayPal,false
+514,Supply,Engineering,v1,11878.76,Net 60,Bank Transfer,false
+515,Construction,Engineering,v2,83074.81,Net 45,PayPal,true
+516,Maintenance,Engineering,v3,5479.8,Net 30,Credit Card,true
+517,Supply,Public Works,v1,28638.07,Net 60,Bank Transfer,true
+518,Supply,Airport,v2,54131.83,Net 30,Credit Card,true
+519,Supply,Public Works,v1,26431.66,Net 60,Bank Transfer,false
+520,Supply,Engineering,v4,61155.8,Net 30,Credit Card,true
+521,Construction,Engineering,v2,24848.21,Net 45,Credit Card,true
+522,Services,Public Works,v1,12392.74,Net 60,PayPal,true
+523,Supply,Engineering,v2,6821.51,Net 60,Bank Transfer,true
+524,Supply,Port,v5,69792.71,Net 60,Bank Transfer,false
+525,Construction,Engineering,v2,16240.29,Net 60,PayPal,true
+526,Services,Engineering,v5,2722.13,Net 60,Credit Card,false
+527,Services,Bridge and Highway,v5,93655.42,Net 30,Bank Transfer,false
+528,Services,Engineering,v5,74268.69,Net 60,PayPal,false
+529,Maintenance,Bridge and Highway,v5,18800.36,Net 60,Credit Card,false
+530,Services,Airport,v1,52234.5,Net 60,Bank Transfer,true
+531,Supply,Engineering,v5,85946.25,Net 60,Bank Transfer,false
+532,Maintenance,Engineering,v1,39481.08,Net 60,Credit Card,true
+533,Services,Engineering,v5,38133.06,Net 60,Credit Card,false
+534,Services,Port,v1,53645.68,Net 60,PayPal,false
+535,Construction,Engineering,v5,20924.92,Net 45,Credit Card,false
+536,Services,Engineering,v5,38038.89,Net 30,Credit Card,true
+537,Supply,Engineering,v2,89998.77,Net 60,Credit Card,false
+538,Maintenance,Engineering,v2,67177.04,Net 30,Bank Transfer,false
+539,Supply,Airport,v3,814.26,Net 45,PayPal,false
+540,Services,Bridge and Highway,v5,79148.22,Net 60,Credit Card,false
+541,Supply,Bridge and Highway,v1,30099.46,Net 45,Credit Card,true
+542,Construction,Bridge and Highway,v3,43867.77,Net 45,PayPal,false
+543,Supply,Airport,v3,20422.89,Net 60,Credit Card,true
+544,Services,Public Works,v2,61492.07,Net 60,Credit Card,false
+545,Construction,Public Works,v1,86472.81,Net 30,Credit Card,false
+546,Supply,Engineering,v1,9517.01,Net 60,PayPal,false
+547,Construction,Engineering,v4,72821.69,Net 60,Credit Card,true
+548,Services,Airport,v2,98534.26,Net 45,Credit Card,false
+549,Construction,Bridge and Highway,v2,21354.34,Net 60,PayPal,true
+550,Supply,Engineering,v5,60733.37,Net 45,PayPal,false
+551,Construction,Engineering,v1,50834.45,Net 45,PayPal,true
+552,Services,Public Works,v5,38031.61,Net 60,Bank Transfer,true
+553,Maintenance,Engineering,v3,16221.28,Net 45,Bank Transfer,false
+554,Supply,Bridge and Highway,v5,46665.43,Net 60,Credit Card,true
+555,Supply,Port,v3,7386.69,Net 60,Credit Card,false
+556,Maintenance,Public Works,v2,99860.21,Net 60,Credit Card,false
+557,Construction,Bridge and Highway,v1,73198.12,Net 45,Credit Card,false
+558,Maintenance,Port,v1,46307.31,Net 30,Credit Card,true
+559,Services,Engineering,v5,31843.83,Net 60,Bank Transfer,true
+560,Supply,Engineering,v1,43062.01,Net 60,Credit Card,true
+561,Supply,Engineering,v2,15643.7,Net 45,Credit Card,true
+562,Construction,Bridge and Highway,v2,70046.56,Net 60,PayPal,true
+563,Construction,Port,v2,1375.63,Net 60,Credit Card,false
+564,Construction,Airport,v5,262.7,Net 60,Bank Transfer,true
+565,Services,Engineering,v5,67134.01,Net 45,Credit Card,false
+566,Services,Engineering,v2,44087.86,Net 45,Credit Card,false
+567,Services,Airport,v1,87266.18,Net 60,Bank Transfer,true
+568,Services,Public Works,v2,59968.25,Net 60,Bank Transfer,true
+569,Services,Engineering,v4,76096.09,Net 30,PayPal,false
+570,Supply,Port,v5,98941.77,Net 45,Credit Card,true
+571,Supply,Engineering,v2,93348.18,Net 60,Credit Card,false
+572,Services,Engineering,v1,29095.43,Net 60,Credit Card,false
+573,Services,Engineering,v5,63583.89,Net 30,PayPal,true
+574,Services,Public Works,v4,91450.62,Net 45,Credit Card,false
+575,Construction,Engineering,v1,89834.75,Net 30,PayPal,false
+576,Maintenance,Port,v1,21106.45,Net 45,Bank Transfer,false
+577,Supply,Transportation,v1,71340.36,Net 45,Credit Card,true
+578,Supply,Engineering,v1,8946.91,Net 60,Credit Card,true
+579,Supply,Airport,v1,38627.64,Net 60,Credit Card,false
+580,Services,Bridge and Highway,v1,42256.81,Net 45,Credit Card,true
+581,Services,Engineering,v4,7782.63,Net 45,PayPal,true
+582,Services,Engineering,v1,46804.31,Net 60,Credit Card,false
+583,Services,Engineering,v1,33530.72,Net 60,PayPal,false
+584,Construction,Public Works,v3,64732.24,Net 45,Credit Card,true
+585,Supply,Public Works,v4,39551.78,Net 60,PayPal,false
+586,Services,Engineering,v3,62468.11,Net 45,Credit Card,true
+587,Services,Port,v1,48410.78,Net 45,Credit Card,true
+588,Supply,Engineering,v3,72248.85,Net 45,Bank Transfer,false
+589,Construction,Bridge and Highway,v4,97907.77,Net 60,Credit Card,true
+590,Services,Public Works,v2,96006.33,Net 60,PayPal,false
+591,Supply,Bridge and Highway,v1,22654.6,Net 45,PayPal,true
+592,Construction,Engineering,v5,56138.24,Net 60,Credit Card,false
+593,Supply,Engineering,v1,81025.81,Net 60,Credit Card,false
+594,Services,Engineering,v1,23363.71,Net 60,Credit Card,false
+595,Supply,Airport,v5,98732.11,Net 45,PayPal,true
+596,Supply,Engineering,v5,94884.12,Net 60,Credit Card,true
+597,Supply,Airport,v1,47259.22,Net 45,Credit Card,false
+598,Construction,Transportation,v1,91927.42,Net 30,Credit Card,false
+599,Services,Port,v3,62398.29,Net 60,Bank Transfer,true
+600,Supply,Engineering,v1,28161.99,Net 60,Credit Card,true
+601,Maintenance,Airport,v5,41325.22,Net 60,Bank Transfer,false
+602,Maintenance,Airport,v1,76571.22,Net 60,Credit Card,false
+603,Supply,Bridge and Highway,v4,30542.31,Net 45,Credit Card,false
+604,Services,Public Works,v1,9037.82,Net 45,PayPal,true
+605,Services,Bridge and Highway,v5,60005.53,Net 60,PayPal,true
+606,Services,Public Works,v4,54468.48,Net 30,PayPal,true
+607,Maintenance,Public Works,v2,35377.37,Net 60,Bank Transfer,true
+608,Services,Engineering,v5,47690.02,Net 45,Credit Card,true
+609,Supply,Engineering,v2,40151.09,Net 60,Credit Card,true
+610,Maintenance,Airport,v2,76837.47,Net 30,PayPal,false
+611,Services,Airport,v2,13312.33,Net 45,Credit Card,true
+612,Services,Airport,v5,96595.13,Net 45,Credit Card,true
+613,Construction,Bridge and Highway,v5,44998.18,Net 45,Credit Card,true
+614,Services,Engineering,v3,4324.52,Net 30,Credit Card,false
+615,Services,Port,v1,21616.62,Net 30,Credit Card,true
+616,Services,Engineering,v4,32204.25,Net 60,Bank Transfer,false
+617,Services,Engineering,v5,82587.78,Net 60,Bank Transfer,true
+618,Services,Port,v3,77964.42,Net 30,Credit Card,false
+619,Supply,Public Works,v4,21364.93,Net 45,Bank Transfer,false
+620,Maintenance,Port,v3,74256.01,Net 45,Credit Card,false
+621,Supply,Airport,v2,34107.4,Net 45,Credit Card,true
+622,Supply,Bridge and Highway,v1,53355.83,Net 45,Credit Card,false
+623,Maintenance,Engineering,v1,42454.17,Net 45,Bank Transfer,true
+624,Supply,Public Works,v5,42904.56,Net 30,Credit Card,false
+625,Construction,Public Works,v1,16340.7,Net 30,PayPal,true
+626,Construction,Airport,v1,6977.91,Net 45,PayPal,true
+627,Services,Bridge and Highway,v4,90736.07,Net 60,Bank Transfer,false
+628,Construction,Port,v4,65017.57,Net 60,PayPal,false
+629,Construction,Transportation,v1,44145.32,Net 60,Credit Card,true
+630,Services,Engineering,v3,13479.82,Net 60,PayPal,true
+631,Supply,Airport,v1,57843.06,Net 45,Credit Card,false
+632,Services,Bridge and Highway,v4,50120.13,Net 60,Credit Card,false
+633,Supply,Bridge and Highway,v3,6825.55,Net 60,PayPal,true
+634,Services,Engineering,v1,12407.2,Net 60,Credit Card,true
+635,Services,Transportation,v3,32143.15,Net 60,PayPal,true
+636,Construction,Bridge and Highway,v1,51036.63,Net 60,Bank Transfer,true
+637,Services,Public Works,v1,62475.12,Net 60,Credit Card,false
+638,Services,Bridge and Highway,v5,79865.86,Net 60,Credit Card,false
+639,Supply,Bridge and Highway,v1,28633.53,Net 60,PayPal,false
+640,Supply,Engineering,v3,70860.83,Net 60,Credit Card,true
+641,Services,Bridge and Highway,v1,8912.77,Net 30,Credit Card,true
+642,Services,Port,v1,32566.07,Net 45,PayPal,true
+643,Services,Bridge and Highway,v1,64428.35,Net 45,PayPal,true
+644,Construction,Engineering,v1,36237.92,Net 45,Bank Transfer,true
+645,Construction,Bridge and Highway,v5,74047.86,Net 30,PayPal,true
+646,Supply,Port,v3,18418.93,Net 60,PayPal,false
+647,Maintenance,Public Works,v3,60172.11,Net 60,PayPal,true
+648,Supply,Engineering,v5,22818.18,Net 45,PayPal,false
+649,Supply,Port,v1,78703.2,Net 45,PayPal,true
+650,Services,Bridge and Highway,v5,60459.72,Net 60,Credit Card,true
+651,Maintenance,Public Works,v4,89263.15,Net 30,Credit Card,false
+652,Maintenance,Public Works,v2,65714.27,Net 60,Credit Card,false
+653,Supply,Bridge and Highway,v5,36091.13,Net 60,Credit Card,false
+654,Services,Engineering,v4,34449.47,Net 60,Bank Transfer,true
+655,Services,Engineering,v3,5617.04,Net 60,Credit Card,true
+656,Services,Engineering,v5,6783.21,Net 45,PayPal,false
+657,Construction,Engineering,v5,42845.82,Net 60,Bank Transfer,false
+658,Supply,Engineering,v5,60271.95,Net 30,Bank Transfer,false
+659,Services,Engineering,v2,24299.64,Net 45,PayPal,true
+660,Services,Engineering,v1,52024.67,Net 30,Credit Card,false
+661,Services,Public Works,v2,37354.49,Net 60,Bank Transfer,false
+662,Services,Public Works,v1,38505.42,Net 45,Credit Card,true
+663,Services,Transportation,v4,43934.54,Net 45,PayPal,true
+664,Services,Public Works,v1,43125.44,Net 60,Credit Card,false
+665,Services,Public Works,v4,56774.23,Net 60,PayPal,false
+666,Supply,Engineering,v5,97586.85,Net 30,PayPal,true
+667,Services,Engineering,v5,45290.47,Net 60,Credit Card,false
+668,Maintenance,Transportation,v1,76015.63,Net 60,Credit Card,false
+669,Construction,Engineering,v4,63886.49,Net 45,Credit Card,false
+670,Construction,Public Works,v2,81901.78,Net 60,PayPal,false
+671,Services,Public Works,v1,17647.2,Net 45,PayPal,false
+672,Services,Engineering,v5,99512.66,Net 60,PayPal,false
+673,Services,Engineering,v3,35076.5,Net 45,Credit Card,false
+674,Services,Engineering,v1,2343.39,Net 60,Bank Transfer,false
+675,Services,Public Works,v4,60398.54,Net 30,Credit Card,false
+676,Construction,Airport,v1,71481.6,Net 60,Credit Card,true
+677,Services,Engineering,v2,80396.62,Net 60,Credit Card,false
+678,Supply,Public Works,v2,56518.47,Net 45,Credit Card,false
+679,Supply,Bridge and Highway,v1,97274.49,Net 60,Credit Card,false
+680,Services,Engineering,v5,3390.55,Net 45,Bank Transfer,true
+681,Maintenance,Engineering,v2,15757.1,Net 60,Credit Card,true
+682,Services,Engineering,v2,51692.29,Net 60,Credit Card,true
+683,Services,Public Works,v5,61095.75,Net 60,Credit Card,true
+684,Construction,Engineering,v1,51319.76,Net 60,Credit Card,true
+685,Maintenance,Engineering,v4,71439.65,Net 45,Credit Card,false
+686,Supply,Engineering,v5,61185.71,Net 30,Bank Transfer,false
+687,Construction,Bridge and Highway,v1,68331.73,Net 45,Credit Card,true
+688,Services,Public Works,v1,60980.04,Net 60,Credit Card,false
+689,Supply,Engineering,v5,56244.23,Net 60,PayPal,true
+690,Maintenance,Engineering,v1,31832.76,Net 60,Credit Card,true
+691,Construction,Engineering,v1,45195.35,Net 60,Credit Card,true
+692,Supply,Public Works,v2,91632.67,Net 60,Credit Card,false
+693,Services,Port,v2,35462.98,Net 30,Credit Card,false
+694,Maintenance,Engineering,v1,84577.97,Net 60,Credit Card,false
+695,Services,Public Works,v3,27207.35,Net 30,Credit Card,true
+696,Supply,Airport,v5,81293.87,Net 60,Bank Transfer,false
+697,Construction,Public Works,v1,34042.5,Net 45,Bank Transfer,false
+698,Construction,Public Works,v1,59041.94,Net 45,Credit Card,true
+699,Supply,Public Works,v4,21830.86,Net 30,PayPal,true
+700,Construction,Engineering,v1,84222.25,Net 60,Credit Card,true
+701,Services,Bridge and Highway,v1,70554.68,Net 60,Credit Card,false
+702,Services,Transportation,v1,84683.96,Net 45,Bank Transfer,false
+703,Services,Public Works,v5,90247.36,Net 30,PayPal,true
+704,Supply,Transportation,v4,85726.67,Net 30,Bank Transfer,true
+705,Construction,Port,v4,17090.69,Net 45,PayPal,true
+706,Supply,Bridge and Highway,v1,42390.08,Net 60,Bank Transfer,true
+707,Supply,Engineering,v1,30275.27,Net 60,Credit Card,false
+708,Construction,Transportation,v1,54521.31,Net 60,Credit Card,true
+709,Services,Airport,v5,17636.14,Net 60,Bank Transfer,false
+710,Supply,Public Works,v5,50332.15,Net 45,PayPal,true
+711,Services,Engineering,v3,47452.13,Net 60,Credit Card,true
+712,Services,Transportation,v1,52738.8,Net 60,Credit Card,false
+713,Maintenance,Port,v2,33753.6,Net 60,PayPal,true
+714,Supply,Engineering,v2,17155.13,Net 60,Credit Card,true
+715,Construction,Bridge and Highway,v3,37313.42,Net 45,Bank Transfer,true
+716,Services,Bridge and Highway,v4,85918.48,Net 45,Credit Card,true
+717,Construction,Engineering,v4,15732.55,Net 30,Credit Card,true
+718,Construction,Bridge and Highway,v2,89240.83,Net 30,Credit Card,false
+719,Construction,Engineering,v1,92436.51,Net 60,Credit Card,true
+720,Supply,Engineering,v2,2862.68,Net 30,Bank Transfer,true
+721,Construction,Bridge and Highway,v4,2043.9,Net 45,PayPal,false
+722,Maintenance,Engineering,v5,31010.48,Net 45,PayPal,true
+723,Construction,Engineering,v1,78851.29,Net 45,Bank Transfer,true
+724,Services,Engineering,v5,65536.12,Net 45,PayPal,false
+725,Supply,Public Works,v4,28346.84,Net 45,Credit Card,false
+726,Services,Bridge and Highway,v2,47917.62,Net 45,Credit Card,false
+727,Supply,Engineering,v2,5617.66,Net 30,Credit Card,false
+728,Supply,Engineering,v1,58286.52,Net 60,Credit Card,false
+729,Supply,Engineering,v5,2565.73,Net 60,Credit Card,true
+730,Services,Public Works,v3,18926.36,Net 60,Credit Card,true
+731,Construction,Airport,v1,28869.72,Net 45,Credit Card,false
+732,Maintenance,Public Works,v1,9115.54,Net 45,PayPal,true
+733,Construction,Airport,v4,53766.0,Net 60,Credit Card,false
+734,Supply,Public Works,v2,45092.91,Net 45,PayPal,true
+735,Supply,Airport,v5,47736.16,Net 30,PayPal,false
+736,Maintenance,Airport,v5,17188.7,Net 60,PayPal,false
+737,Construction,Engineering,v5,95416.42,Net 45,Bank Transfer,true
+738,Services,Airport,v4,8814.0,Net 60,PayPal,false
+739,Services,Public Works,v1,57679.45,Net 60,Bank Transfer,false
+740,Supply,Engineering,v3,29769.99,Net 45,Credit Card,false
+741,Services,Engineering,v2,64412.61,Net 30,Bank Transfer,true
+742,Services,Engineering,v5,73228.38,Net 60,Bank Transfer,false
+743,Maintenance,Transportation,v1,16045.43,Net 30,Bank Transfer,true
+744,Supply,Bridge and Highway,v2,8944.03,Net 45,Credit Card,false
+745,Services,Bridge and Highway,v5,16399.34,Net 60,Credit Card,false
+746,Services,Bridge and Highway,v5,8042.22,Net 60,Credit Card,false
+747,Construction,Engineering,v4,32602.22,Net 45,Bank Transfer,false
+748,Supply,Bridge and Highway,v5,58608.95,Net 60,Credit Card,true
+749,Services,Public Works,v1,6200.77,Net 45,Credit Card,false
+750,Services,Engineering,v2,56051.81,Net 60,PayPal,false
+751,Maintenance,Engineering,v2,62456.74,Net 60,Credit Card,false
+752,Services,Engineering,v4,51673.8,Net 45,Credit Card,false
+753,Services,Public Works,v1,8587.59,Net 60,Credit Card,false
+754,Maintenance,Engineering,v1,76930.85,Net 45,PayPal,false
+755,Services,Port,v1,59066.99,Net 45,Credit Card,false
+756,Supply,Engineering,v2,77614.43,Net 60,PayPal,true
+757,Supply,Airport,v2,13692.93,Net 30,Credit Card,true
+758,Services,Transportation,v4,53492.48,Net 60,PayPal,true
+759,Construction,Bridge and Highway,v1,67629.19,Net 30,PayPal,true
+760,Supply,Engineering,v5,25893.78,Net 60,Credit Card,false
+761,Supply,Port,v1,11216.39,Net 45,PayPal,true
+762,Construction,Public Works,v5,98680.59,Net 30,Bank Transfer,true
+763,Construction,Engineering,v5,35246.31,Net 45,Credit Card,false
+764,Services,Bridge and Highway,v2,91338.93,Net 60,Bank Transfer,true
+765,Services,Public Works,v3,40176.93,Net 60,PayPal,false
+766,Services,Public Works,v5,2599.39,Net 45,Credit Card,false
+767,Services,Bridge and Highway,v5,78729.71,Net 45,Credit Card,true
+768,Construction,Engineering,v1,10911.29,Net 45,PayPal,false
+769,Services,Engineering,v2,79288.29,Net 30,Bank Transfer,true
+770,Supply,Port,v2,60266.76,Net 60,PayPal,false
+771,Supply,Engineering,v1,80240.77,Net 30,PayPal,true
+772,Construction,Public Works,v4,9451.98,Net 45,PayPal,true
+773,Services,Airport,v2,20127.56,Net 60,Bank Transfer,true
+774,Construction,Engineering,v5,93894.83,Net 60,Credit Card,true
+775,Services,Public Works,v2,14314.19,Net 60,Credit Card,true
+776,Maintenance,Port,v4,19415.31,Net 60,Credit Card,true
+777,Construction,Airport,v4,67223.81,Net 30,Credit Card,false
+778,Supply,Engineering,v4,89892.56,Net 60,Credit Card,true
+779,Services,Public Works,v5,34418.43,Net 60,Bank Transfer,true
+780,Supply,Public Works,v4,39877.57,Net 45,Bank Transfer,true
+781,Services,Bridge and Highway,v5,79267.84,Net 60,Bank Transfer,true
+782,Supply,Engineering,v1,97836.62,Net 60,PayPal,true
+783,Services,Transportation,v1,93625.89,Net 30,Bank Transfer,true
+784,Maintenance,Airport,v2,97725.27,Net 60,Credit Card,false
+785,Supply,Engineering,v5,12736.03,Net 60,Credit Card,false
+786,Supply,Airport,v4,54079.74,Net 60,Credit Card,false
+787,Supply,Engineering,v1,92754.13,Net 30,Bank Transfer,true
+788,Construction,Port,v5,40932.54,Net 30,Bank Transfer,false
+789,Supply,Public Works,v4,47826.13,Net 45,PayPal,false
+790,Supply,Bridge and Highway,v5,77622.5,Net 45,PayPal,false
+791,Services,Public Works,v2,9980.44,Net 60,Bank Transfer,true
+792,Maintenance,Engineering,v4,27893.94,Net 30,Bank Transfer,true
+793,Services,Public Works,v5,34180.98,Net 60,PayPal,true
+794,Construction,Public Works,v5,86775.36,Net 45,Credit Card,false
+795,Services,Engineering,v4,91898.55,Net 60,Credit Card,true
+796,Construction,Bridge and Highway,v1,54441.89,Net 45,PayPal,false
+797,Services,Airport,v5,9389.33,Net 45,Bank Transfer,false
+798,Services,Port,v4,56573.65,Net 45,Bank Transfer,true
+799,Supply,Engineering,v4,31688.12,Net 30,Credit Card,false
+800,Supply,Engineering,v5,58916.18,Net 45,Bank Transfer,false
+801,Services,Airport,v2,6039.56,Net 45,Bank Transfer,true
+802,Services,Engineering,v2,50864.63,Net 60,Credit Card,true
+803,Supply,Public Works,v2,28860.79,Net 45,Bank Transfer,false
+804,Services,Bridge and Highway,v4,62171.59,Net 30,PayPal,true
+805,Construction,Transportation,v1,97016.99,Net 60,Credit Card,true
+806,Supply,Engineering,v1,47982.73,Net 60,Bank Transfer,true
+807,Services,Port,v3,73113.34,Net 45,Bank Transfer,true
+808,Construction,Public Works,v5,40157.27,Net 60,Bank Transfer,false
+809,Supply,Engineering,v1,96628.21,Net 30,Credit Card,false
+810,Supply,Port,v1,90004.4,Net 60,Bank Transfer,true
+811,Services,Engineering,v1,82906.14,Net 45,Credit Card,true
+812,Supply,Transportation,v3,57798.71,Net 60,PayPal,true
+813,Maintenance,Public Works,v1,11829.82,Net 60,Bank Transfer,true
+814,Services,Airport,v4,64580.95,Net 45,Bank Transfer,true
+815,Services,Public Works,v2,9802.29,Net 30,Credit Card,false
+816,Services,Engineering,v1,62474.41,Net 60,Credit Card,false
+817,Services,Public Works,v1,64159.48,Net 60,PayPal,false
+818,Services,Bridge and Highway,v5,11572.72,Net 30,PayPal,false
+819,Construction,Engineering,v1,99456.74,Net 60,PayPal,true
+820,Services,Engineering,v4,10284.37,Net 45,PayPal,true
+821,Construction,Bridge and Highway,v2,85704.48,Net 60,PayPal,true
+822,Maintenance,Public Works,v2,28055.45,Net 60,Credit Card,true
+823,Construction,Port,v5,5383.69,Net 60,Credit Card,false
+824,Services,Public Works,v3,45254.11,Net 45,PayPal,false
+825,Services,Public Works,v1,95569.05,Net 60,Bank Transfer,true
+826,Services,Engineering,v4,95809.96,Net 60,Credit Card,false
+827,Supply,Engineering,v2,2399.75,Net 30,Bank Transfer,false
+828,Services,Engineering,v2,1584.65,Net 45,Credit Card,false
+829,Construction,Engineering,v1,48155.78,Net 60,Credit Card,false
+830,Services,Transportation,v1,22902.06,Net 30,Credit Card,false
+831,Services,Bridge and Highway,v5,20819.59,Net 45,Credit Card,false
+832,Supply,Transportation,v2,41578.27,Net 30,Credit Card,false
+833,Construction,Port,v5,10877.7,Net 60,Credit Card,false
+834,Supply,Bridge and Highway,v5,30816.5,Net 45,PayPal,false
+835,Services,Public Works,v2,52904.38,Net 30,Credit Card,true
+836,Construction,Bridge and Highway,v3,69465.9,Net 60,Credit Card,true
+837,Construction,Public Works,v1,98680.97,Net 30,PayPal,true
+838,Construction,Engineering,v1,27821.97,Net 30,PayPal,false
+839,Construction,Engineering,v1,3140.21,Net 45,PayPal,false
+840,Construction,Public Works,v5,19915.17,Net 60,PayPal,false
+841,Construction,Port,v1,82960.21,Net 45,Bank Transfer,false
+842,Services,Engineering,v4,96963.46,Net 60,PayPal,false
+843,Supply,Port,v4,96763.06,Net 30,PayPal,false
+844,Construction,Public Works,v1,45926.34,Net 60,Credit Card,false
+845,Construction,Public Works,v1,4197.23,Net 60,PayPal,true
+846,Supply,Engineering,v2,27707.73,Net 60,Credit Card,true
+847,Services,Public Works,v1,29752.54,Net 60,Bank Transfer,false
+848,Supply,Engineering,v2,40242.15,Net 60,Credit Card,false
+849,Services,Port,v1,85725.44,Net 30,Credit Card,true
+850,Supply,Port,v5,96497.93,Net 60,Credit Card,false
+851,Services,Airport,v4,81677.89,Net 60,PayPal,false
+852,Services,Public Works,v5,5293.67,Net 45,Credit Card,false
+853,Supply,Public Works,v2,71636.85,Net 60,Credit Card,true
+854,Supply,Bridge and Highway,v5,35697.67,Net 45,Credit Card,false
+855,Construction,Bridge and Highway,v2,43226.4,Net 45,Credit Card,true
+856,Maintenance,Public Works,v5,59817.7,Net 30,Bank Transfer,true
+857,Maintenance,Public Works,v3,48132.68,Net 30,Credit Card,false
+858,Supply,Port,v4,46657.76,Net 30,Credit Card,true
+859,Services,Engineering,v4,87359.96,Net 30,PayPal,true
+860,Services,Bridge and Highway,v4,31347.86,Net 60,Credit Card,false
+861,Supply,Engineering,v3,57365.54,Net 60,PayPal,true
+862,Services,Engineering,v1,87691.02,Net 60,Credit Card,true
+863,Supply,Engineering,v4,14951.37,Net 60,PayPal,true
+864,Supply,Public Works,v1,70550.12,Net 30,Credit Card,false
+865,Construction,Engineering,v1,23151.42,Net 60,PayPal,false
+866,Supply,Engineering,v2,26485.22,Net 45,Credit Card,false
+867,Supply,Public Works,v5,70060.05,Net 45,PayPal,false
+868,Construction,Transportation,v2,45544.78,Net 60,Bank Transfer,true
+869,Supply,Public Works,v2,38524.06,Net 45,Credit Card,false
+870,Supply,Public Works,v5,76748.62,Net 60,Credit Card,true
+871,Services,Bridge and Highway,v1,96923.0,Net 60,Credit Card,true
+872,Services,Engineering,v1,44191.41,Net 30,Credit Card,true
+873,Supply,Port,v4,48576.72,Net 45,Credit Card,false
+874,Maintenance,Airport,v2,85819.2,Net 60,Credit Card,false
+875,Supply,Engineering,v2,39158.99,Net 45,Credit Card,false
+876,Supply,Engineering,v1,44777.19,Net 60,PayPal,false
+877,Services,Bridge and Highway,v5,35405.39,Net 60,Credit Card,false
+878,Supply,Airport,v1,84209.86,Net 30,Bank Transfer,true
+879,Supply,Engineering,v4,78873.8,Net 45,Credit Card,false
+880,Supply,Port,v5,26334.46,Net 60,Credit Card,false
+881,Services,Port,v2,50476.03,Net 60,PayPal,true
+882,Supply,Port,v1,11167.9,Net 45,Bank Transfer,true
+883,Supply,Public Works,v2,20044.74,Net 45,Credit Card,true
+884,Supply,Engineering,v5,35685.71,Net 30,Credit Card,false
+885,Supply,Public Works,v3,12905.76,Net 45,Bank Transfer,false
+886,Services,Public Works,v1,52458.92,Net 30,Bank Transfer,false
+887,Services,Engineering,v4,73914.08,Net 45,Bank Transfer,false
+888,Services,Airport,v4,24068.73,Net 60,Bank Transfer,false
+889,Supply,Engineering,v1,52552.49,Net 30,Credit Card,false
+890,Services,Public Works,v5,14828.55,Net 45,Credit Card,false
+891,Construction,Port,v1,59033.5,Net 30,Credit Card,false
+892,Services,Transportation,v3,33006.54,Net 60,PayPal,false
+893,Services,Engineering,v4,86845.96,Net 60,Credit Card,true
+894,Supply,Engineering,v3,98977.37,Net 60,Credit Card,true
+895,Services,Engineering,v5,89803.65,Net 30,Credit Card,false
+896,Maintenance,Public Works,v5,89390.47,Net 45,Credit Card,false
+897,Construction,Public Works,v1,51518.11,Net 60,Credit Card,true
+898,Services,Engineering,v5,88844.44,Net 45,Credit Card,true
+899,Construction,Engineering,v3,82800.89,Net 45,Bank Transfer,false
+900,Construction,Bridge and Highway,v4,8850.56,Net 45,Credit Card,true
+901,Construction,Engineering,v4,64563.34,Net 45,PayPal,false
+902,Construction,Port,v2,47414.76,Net 45,PayPal,false
+903,Services,Bridge and Highway,v2,35273.46,Net 45,PayPal,true
+904,Services,Transportation,v1,27471.39,Net 30,Credit Card,false
+905,Maintenance,Airport,v1,12592.71,Net 60,Credit Card,false
+906,Supply,Bridge and Highway,v4,35151.87,Net 30,Credit Card,false
+907,Services,Engineering,v3,44621.76,Net 45,Credit Card,true
+908,Supply,Engineering,v3,78150.37,Net 60,Credit Card,false
+909,Supply,Engineering,v5,52381.73,Net 45,Credit Card,false
+910,Services,Engineering,v5,62765.41,Net 60,Bank Transfer,true
+911,Construction,Engineering,v3,52372.12,Net 30,Bank Transfer,true
+912,Services,Public Works,v5,75817.21,Net 60,PayPal,true
+913,Supply,Port,v3,18154.54,Net 60,Bank Transfer,false
+914,Services,Bridge and Highway,v2,10869.29,Net 45,PayPal,true
+915,Services,Airport,v3,29389.25,Net 45,Credit Card,false
+916,Services,Airport,v5,26545.37,Net 45,Credit Card,true
+917,Services,Port,v4,42071.24,Net 30,Credit Card,false
+918,Construction,Engineering,v5,61566.51,Net 60,Bank Transfer,false
+919,Construction,Bridge and Highway,v4,89897.98,Net 60,Bank Transfer,false
+920,Services,Bridge and Highway,v4,15560.48,Net 60,Credit Card,false
+921,Supply,Bridge and Highway,v2,41831.21,Net 60,PayPal,false
+922,Supply,Engineering,v1,14242.38,Net 60,Bank Transfer,false
+923,Supply,Engineering,v1,55270.77,Net 60,PayPal,true
+924,Construction,Public Works,v5,65115.39,Net 30,Bank Transfer,true
+925,Construction,Public Works,v5,96090.82,Net 60,Credit Card,false
+926,Services,Public Works,v3,10061.56,Net 30,Bank Transfer,true
+927,Services,Engineering,v5,71843.84,Net 60,Credit Card,true
+928,Services,Port,v1,2456.04,Net 60,PayPal,true
+929,Services,Engineering,v1,16827.58,Net 60,Credit Card,false
+930,Maintenance,Public Works,v5,32522.43,Net 60,Credit Card,false
+931,Maintenance,Public Works,v5,42765.08,Net 30,Credit Card,true
+932,Supply,Bridge and Highway,v4,32027.78,Net 60,PayPal,true
+933,Maintenance,Engineering,v1,99676.53,Net 30,Credit Card,true
+934,Supply,Bridge and Highway,v2,51861.8,Net 60,Credit Card,false
+935,Supply,Engineering,v2,28515.77,Net 45,Credit Card,true
+936,Services,Engineering,v3,58338.83,Net 60,Credit Card,false
+937,Services,Port,v1,14307.06,Net 60,Bank Transfer,false
+938,Supply,Airport,v1,55507.95,Net 30,PayPal,false
+939,Services,Public Works,v5,34138.86,Net 30,PayPal,true
+940,Services,Airport,v2,45203.62,Net 30,Credit Card,false
+941,Construction,Public Works,v3,40424.25,Net 45,PayPal,true
+942,Maintenance,Engineering,v2,8271.22,Net 60,Bank Transfer,false
+943,Services,Engineering,v1,49349.57,Net 30,Credit Card,false
+944,Services,Public Works,v4,27092.2,Net 45,PayPal,false
+945,Services,Engineering,v5,65788.75,Net 30,PayPal,false
+946,Services,Airport,v3,10460.57,Net 60,PayPal,false
+947,Services,Engineering,v5,78536.12,Net 60,PayPal,false
+948,Maintenance,Public Works,v1,43130.49,Net 30,Bank Transfer,true
+949,Supply,Bridge and Highway,v2,66598.49,Net 45,PayPal,true
+950,Maintenance,Transportation,v1,70305.48,Net 30,Credit Card,true
+951,Maintenance,Public Works,v2,56819.39,Net 60,PayPal,true
+952,Services,Port,v1,24152.69,Net 45,PayPal,true
+953,Services,Engineering,v2,78700.36,Net 60,PayPal,true
+954,Construction,Port,v4,32864.73,Net 60,Credit Card,true
+955,Supply,Public Works,v5,70400.92,Net 60,PayPal,true
+956,Construction,Engineering,v1,82881.45,Net 60,PayPal,false
+957,Services,Engineering,v5,89570.91,Net 45,Credit Card,true
+958,Supply,Airport,v1,64456.51,Net 30,PayPal,true
+959,Supply,Transportation,v5,93462.07,Net 60,PayPal,true
+960,Supply,Public Works,v2,84167.64,Net 60,Credit Card,true
+961,Services,Engineering,v1,23441.79,Net 60,Bank Transfer,true
+962,Supply,Engineering,v1,46120.12,Net 30,Credit Card,true
+963,Services,Public Works,v5,23834.15,Net 60,Bank Transfer,true
+964,Services,Bridge and Highway,v1,491.07,Net 30,Credit Card,false
+965,Services,Engineering,v5,71309.36,Net 60,PayPal,true
+966,Services,Engineering,v5,22145.24,Net 45,Credit Card,false
+967,Maintenance,Engineering,v2,72168.67,Net 60,Credit Card,false
+968,Maintenance,Public Works,v5,39189.21,Net 45,PayPal,false
+969,Construction,Airport,v2,94701.47,Net 30,Credit Card,true
+970,Services,Engineering,v3,48147.18,Net 45,PayPal,false
+971,Services,Engineering,v5,4030.0,Net 45,Bank Transfer,false
+972,Services,Airport,v4,75319.66,Net 60,PayPal,false
+973,Construction,Engineering,v4,42487.92,Net 60,Credit Card,true
+974,Supply,Airport,v2,79447.55,Net 60,Credit Card,true
+975,Supply,Engineering,v4,45424.75,Net 60,Credit Card,true
+976,Services,Public Works,v4,52082.67,Net 60,Bank Transfer,false
+977,Services,Engineering,v1,92768.09,Net 30,Credit Card,false
+978,Services,Engineering,v5,90371.51,Net 45,Credit Card,false
+979,Services,Transportation,v5,58367.12,Net 30,Credit Card,false
+980,Supply,Engineering,v4,32380.7,Net 45,Credit Card,true
+981,Supply,Engineering,v5,51951.69,Net 30,Credit Card,true
+982,Services,Engineering,v1,26482.13,Net 30,Credit Card,true
+983,Services,Engineering,v4,56683.04,Net 60,Bank Transfer,false
+984,Supply,Public Works,v3,73345.82,Net 60,Credit Card,true
+985,Services,Engineering,v1,48810.56,Net 30,Bank Transfer,true
+986,Services,Bridge and Highway,v2,2563.75,Net 60,Credit Card,true
+987,Maintenance,Engineering,v4,80196.62,Net 60,Credit Card,true
+988,Supply,Public Works,v3,35223.1,Net 45,Credit Card,false
+989,Services,Engineering,v1,15258.38,Net 60,Credit Card,true
+990,Services,Engineering,v5,49683.92,Net 60,Credit Card,false
+991,Services,Port,v5,54958.62,Net 60,Bank Transfer,false
+992,Services,Engineering,v4,77651.42,Net 30,Credit Card,false
+993,Maintenance,Engineering,v3,81942.69,Net 45,Bank Transfer,false
+994,Construction,Airport,v1,69316.86,Net 45,Bank Transfer,false
+995,Supply,Engineering,v3,33454.78,Net 60,Credit Card,false
+996,Supply,Engineering,v5,59921.89,Net 45,Credit Card,true
+997,Services,Bridge and Highway,v3,9662.35,Net 45,Credit Card,true
+998,Construction,Engineering,v1,27870.48,Net 45,PayPal,false
+999,Services,Engineering,v4,51632.1,Net 60,PayPal,false
+1000,Maintenance,Bridge and Highway,v5,13801.29,Net 60,PayPal,false
