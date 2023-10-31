@@ -1,0 +1,1001 @@
+ContractID,ContractType,Department,VendorID,ContractValue,PaymentTerms,Payment_Method,TransactionDate,IsFraud
+1,Construction,Engineering,v4,78881.78,Net 30,Credit Card,"error: invalid date ""2022-10-31""",true
+2,Supply,Port,v1,6746.47,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+3,Supply,Engineering,v4,83153.69,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+4,Maintenance,Engineering,v5,89846.45,Net 30,Credit Card,"error: invalid date ""2022-10-31""",false
+5,Services,Engineering,v5,19630.48,Net 30,Bank Transfer,"error: invalid date ""2022-10-31""",true
+6,Services,Bridge and Highway,v2,20305.77,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",true
+7,Services,Engineering,v1,87085.81,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+8,Supply,Engineering,v2,3561.34,Net 30,Credit Card,"error: invalid date ""2022-10-31""",false
+9,Supply,Engineering,v5,47612.72,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",true
+10,Supply,Engineering,v5,98371.72,Net 30,Bank Transfer,"error: invalid date ""2022-10-31""",true
+11,Services,Bridge and Highway,v5,7346.22,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+12,Construction,Engineering,v1,94331.05,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+13,Maintenance,Engineering,v1,20339.92,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+14,Construction,Engineering,v4,8348.45,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+15,Services,Engineering,v3,66186.21,Net 45,Bank Transfer,"error: invalid date ""2022-10-31""",false
+16,Construction,Engineering,v5,67641.44,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+17,Services,Public Works,v4,59038.46,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+18,Supply,Engineering,v2,50889.21,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+19,Supply,Airport,v1,58758.8,Net 30,PayPal,"error: invalid date ""2022-10-31""",true
+20,Construction,Engineering,v2,13109.97,Net 30,PayPal,"error: invalid date ""2022-10-31""",true
+21,Supply,Engineering,v1,8075.94,Net 30,PayPal,"error: invalid date ""2022-10-31""",false
+22,Services,Engineering,v4,61093.89,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+23,Construction,Engineering,v4,79211.68,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+24,Services,Engineering,v2,11233.95,Net 30,Bank Transfer,"error: invalid date ""2022-10-31""",true
+25,Services,Public Works,v1,68821.0,Net 45,PayPal,"error: invalid date ""2022-10-31""",false
+26,Supply,Public Works,v2,89284.84,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+27,Supply,Airport,v1,938.7,Net 45,PayPal,"error: invalid date ""2022-10-31""",true
+28,Services,Port,v1,82986.33,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+29,Services,Transportation,v5,96190.23,Net 30,Credit Card,"error: invalid date ""2022-10-31""",false
+30,Services,Engineering,v2,62125.93,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+31,Services,Engineering,v2,52520.57,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+32,Services,Engineering,v5,68854.74,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+33,Services,Public Works,v3,27826.07,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+34,Construction,Engineering,v5,83125.12,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+35,Services,Engineering,v1,66066.74,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",true
+36,Services,Engineering,v1,88818.34,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+37,Services,Engineering,v1,20669.22,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+38,Services,Engineering,v5,32007.99,Net 45,PayPal,"error: invalid date ""2022-10-31""",false
+39,Supply,Public Works,v2,35308.61,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+40,Services,Engineering,v1,81344.23,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",false
+41,Maintenance,Public Works,v5,32575.85,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+42,Construction,Engineering,v1,12841.21,Net 30,Credit Card,"error: invalid date ""2022-10-31""",false
+43,Supply,Transportation,v4,50140.63,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+44,Services,Bridge and Highway,v5,5764.53,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+45,Supply,Port,v1,66415.59,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+46,Services,Engineering,v5,15911.05,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+47,Construction,Bridge and Highway,v1,25236.0,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",true
+48,Services,Engineering,v1,16157.65,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+49,Services,Engineering,v4,1936.81,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+50,Construction,Engineering,v4,78981.06,Net 30,Credit Card,"error: invalid date ""2022-10-31""",false
+51,Supply,Transportation,v4,43004.43,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+52,Services,Engineering,v3,53296.34,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+53,Services,Engineering,v2,13281.18,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+54,Construction,Engineering,v1,96175.78,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+55,Construction,Engineering,v2,79656.6,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+56,Construction,Engineering,v2,50781.17,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+57,Supply,Engineering,v1,12143.93,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+58,Construction,Public Works,v5,70570.68,Net 30,Credit Card,"error: invalid date ""2022-10-31""",false
+59,Services,Bridge and Highway,v5,86998.48,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",false
+60,Services,Engineering,v3,64348.13,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+61,Services,Port,v1,73276.17,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+62,Supply,Engineering,v1,31421.53,Net 30,PayPal,"error: invalid date ""2022-10-31""",true
+63,Services,Public Works,v1,45855.84,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+64,Supply,Public Works,v1,63054.55,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+65,Supply,Public Works,v1,80538.7,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+66,Supply,Port,v1,94934.18,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+67,Construction,Public Works,v1,15197.01,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+68,Services,Public Works,v2,54227.81,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+69,Services,Public Works,v1,91312.22,Net 30,PayPal,"error: invalid date ""2022-10-31""",true
+70,Services,Bridge and Highway,v5,3837.39,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+71,Services,Public Works,v4,74864.6,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+72,Construction,Airport,v3,29297.91,Net 45,PayPal,"error: invalid date ""2022-10-31""",false
+73,Construction,Engineering,v2,43616.62,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+74,Services,Public Works,v5,51555.83,Net 30,Credit Card,"error: invalid date ""2022-10-31""",true
+75,Supply,Bridge and Highway,v2,69499.92,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+76,Construction,Engineering,v5,2335.35,Net 30,PayPal,"error: invalid date ""2022-10-31""",false
+77,Services,Public Works,v2,28860.65,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+78,Services,Airport,v1,18145.08,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+79,Construction,Engineering,v1,81782.74,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+80,Services,Bridge and Highway,v1,69622.43,Net 30,Credit Card,"error: invalid date ""2022-10-31""",true
+81,Services,Bridge and Highway,v4,45275.11,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",false
+82,Supply,Airport,v5,17681.03,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+83,Supply,Port,v2,83283.29,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",true
+84,Services,Engineering,v3,39664.84,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+85,Construction,Engineering,v4,58641.22,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+86,Services,Engineering,v1,2343.84,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",false
+87,Maintenance,Airport,v2,55305.71,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+88,Maintenance,Engineering,v5,14499.41,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+89,Supply,Bridge and Highway,v1,95936.43,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+90,Services,Public Works,v1,55236.63,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+91,Services,Public Works,v3,18364.7,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+92,Construction,Engineering,v4,87287.94,Net 30,Credit Card,"error: invalid date ""2022-10-31""",true
+93,Services,Engineering,v1,31580.92,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+94,Supply,Airport,v4,32767.17,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",true
+95,Services,Airport,v3,54524.3,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+96,Services,Engineering,v5,37990.15,Net 45,PayPal,"error: invalid date ""2022-10-31""",true
+97,Services,Bridge and Highway,v3,8510.92,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+98,Services,Engineering,v5,35774.38,Net 45,PayPal,"error: invalid date ""2022-10-31""",false
+99,Services,Port,v4,15896.59,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+100,Services,Public Works,v1,67933.09,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+101,Services,Public Works,v3,37719.81,Net 30,Credit Card,"error: invalid date ""2022-10-31""",true
+102,Supply,Engineering,v2,56145.48,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+103,Construction,Engineering,v2,94727.08,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+104,Services,Engineering,v3,98312.55,Net 30,Credit Card,"error: invalid date ""2022-10-31""",false
+105,Supply,Bridge and Highway,v5,93653.86,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+106,Maintenance,Engineering,v2,98587.75,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+107,Maintenance,Port,v1,9460.11,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+108,Supply,Bridge and Highway,v5,59494.42,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+109,Services,Public Works,v2,8031.86,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",true
+110,Supply,Engineering,v4,94284.64,Net 45,Bank Transfer,"error: invalid date ""2022-10-31""",true
+111,Services,Public Works,v2,76539.1,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+112,Construction,Engineering,v5,89270.66,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+113,Services,Engineering,v1,14560.37,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+114,Construction,Engineering,v3,2837.32,Net 45,Bank Transfer,"error: invalid date ""2022-10-31""",true
+115,Supply,Engineering,v1,79673.08,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+116,Services,Airport,v4,66385.58,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+117,Supply,Port,v4,84199.94,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+118,Services,Port,v3,21669.31,Net 30,Credit Card,"error: invalid date ""2022-10-31""",true
+119,Construction,Public Works,v4,39352.37,Net 30,Bank Transfer,"error: invalid date ""2022-10-31""",true
+120,Maintenance,Bridge and Highway,v1,21882.61,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+121,Supply,Airport,v5,12959.66,Net 30,Credit Card,"error: invalid date ""2022-10-31""",true
+122,Maintenance,Engineering,v3,95553.26,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+123,Maintenance,Bridge and Highway,v4,59851.13,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+124,Services,Public Works,v2,14156.04,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+125,Services,Engineering,v5,15739.19,Net 45,Bank Transfer,"error: invalid date ""2022-10-31""",false
+126,Supply,Transportation,v5,13187.62,Net 30,PayPal,"error: invalid date ""2022-10-31""",false
+127,Services,Port,v4,39868.81,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+128,Services,Engineering,v2,86919.09,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+129,Maintenance,Transportation,v4,91595.73,Net 45,PayPal,"error: invalid date ""2022-10-31""",false
+130,Construction,Engineering,v4,55596.04,Net 45,Bank Transfer,"error: invalid date ""2022-10-31""",false
+131,Supply,Airport,v2,2097.14,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+132,Construction,Engineering,v3,98723.15,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+133,Supply,Engineering,v5,8130.44,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+134,Construction,Engineering,v3,32701.54,Net 30,Bank Transfer,"error: invalid date ""2022-10-31""",true
+135,Services,Airport,v1,84349.58,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+136,Supply,Public Works,v4,16196.3,Net 45,PayPal,"error: invalid date ""2022-10-31""",true
+137,Maintenance,Transportation,v4,84003.89,Net 30,PayPal,"error: invalid date ""2022-10-31""",false
+138,Services,Public Works,v1,7289.84,Net 45,Bank Transfer,"error: invalid date ""2022-10-31""",false
+139,Services,Port,v4,46447.76,Net 30,Credit Card,"error: invalid date ""2022-10-31""",false
+140,Supply,Public Works,v5,80881.54,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+141,Services,Port,v1,78041.56,Net 30,PayPal,"error: invalid date ""2022-10-31""",false
+142,Services,Public Works,v5,50505.68,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",true
+143,Supply,Engineering,v1,27234.59,Net 45,Bank Transfer,"error: invalid date ""2022-10-31""",false
+144,Supply,Engineering,v1,62297.62,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+145,Services,Airport,v4,55496.89,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",false
+146,Services,Airport,v1,84886.33,Net 30,Bank Transfer,"error: invalid date ""2022-10-31""",false
+147,Supply,Bridge and Highway,v1,83640.72,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+148,Supply,Bridge and Highway,v4,24865.22,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",false
+149,Construction,Engineering,v1,32854.84,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+150,Supply,Engineering,v3,95382.62,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+151,Supply,Transportation,v5,76025.46,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+152,Construction,Engineering,v1,45619.1,Net 30,Credit Card,"error: invalid date ""2022-10-31""",false
+153,Construction,Transportation,v5,42513.27,Net 30,PayPal,"error: invalid date ""2022-10-31""",true
+154,Construction,Airport,v5,39227.7,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+155,Services,Airport,v5,60509.5,Net 30,PayPal,"error: invalid date ""2022-10-31""",false
+156,Services,Bridge and Highway,v1,46820.3,Net 30,Bank Transfer,"error: invalid date ""2022-10-31""",true
+157,Services,Public Works,v5,74778.9,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+158,Maintenance,Public Works,v1,31943.04,Net 45,PayPal,"error: invalid date ""2022-10-31""",false
+159,Services,Airport,v1,32931.15,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+160,Services,Engineering,v4,38584.01,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+161,Maintenance,Port,v5,59388.3,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",true
+162,Services,Engineering,v5,27001.56,Net 30,Credit Card,"error: invalid date ""2022-10-31""",false
+163,Services,Airport,v4,46854.67,Net 30,Credit Card,"error: invalid date ""2022-10-31""",false
+164,Services,Port,v1,59165.98,Net 30,Credit Card,"error: invalid date ""2022-10-31""",true
+165,Services,Bridge and Highway,v2,78915.61,Net 30,Credit Card,"error: invalid date ""2022-10-31""",false
+166,Supply,Port,v4,840.25,Net 30,Bank Transfer,"error: invalid date ""2022-10-31""",true
+167,Construction,Engineering,v2,20574.7,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+168,Services,Port,v4,14630.78,Net 30,Credit Card,"error: invalid date ""2022-10-31""",false
+169,Supply,Engineering,v2,88723.66,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+170,Services,Public Works,v1,38561.38,Net 30,Credit Card,"error: invalid date ""2022-10-31""",true
+171,Supply,Bridge and Highway,v3,30492.16,Net 45,PayPal,"error: invalid date ""2022-10-31""",false
+172,Services,Public Works,v5,79859.53,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+173,Construction,Engineering,v5,73636.31,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+174,Services,Engineering,v5,29320.32,Net 30,PayPal,"error: invalid date ""2022-10-31""",false
+175,Services,Public Works,v4,4593.53,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+176,Services,Public Works,v2,91774.59,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+177,Construction,Port,v4,19671.66,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+178,Supply,Engineering,v1,47361.19,Net 30,PayPal,"error: invalid date ""2022-10-31""",true
+179,Supply,Transportation,v5,35949.24,Net 30,Credit Card,"error: invalid date ""2022-10-31""",false
+180,Maintenance,Airport,v3,46763.49,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+181,Construction,Engineering,v1,43292.8,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+182,Supply,Engineering,v2,70545.15,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+183,Supply,Engineering,v5,4783.67,Net 45,Bank Transfer,"error: invalid date ""2022-10-31""",false
+184,Services,Engineering,v5,19513.31,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",true
+185,Maintenance,Airport,v1,50027.59,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+186,Services,Bridge and Highway,v1,93670.6,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+187,Services,Bridge and Highway,v1,76601.89,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+188,Supply,Engineering,v4,61549.68,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+189,Construction,Public Works,v1,75303.49,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+190,Maintenance,Engineering,v3,35889.72,Net 45,PayPal,"error: invalid date ""2022-10-31""",true
+191,Supply,Airport,v1,16202.89,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+192,Construction,Engineering,v2,87914.0,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+193,Services,Public Works,v1,25986.26,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+194,Supply,Engineering,v2,53974.75,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+195,Construction,Bridge and Highway,v1,35516.19,Net 45,Bank Transfer,"error: invalid date ""2022-10-31""",true
+196,Construction,Transportation,v1,72306.69,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+197,Services,Port,v1,13950.29,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+198,Maintenance,Airport,v1,56927.33,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+199,Services,Airport,v2,6037.77,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+200,Services,Bridge and Highway,v5,14110.68,Net 30,Credit Card,"error: invalid date ""2022-10-31""",false
+201,Supply,Port,v4,71549.92,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+202,Services,Port,v5,42590.96,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+203,Construction,Port,v2,32533.63,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+204,Construction,Port,v2,9958.22,Net 30,Bank Transfer,"error: invalid date ""2022-10-31""",false
+205,Supply,Public Works,v2,4086.66,Net 45,Bank Transfer,"error: invalid date ""2022-10-31""",true
+206,Supply,Bridge and Highway,v1,73263.51,Net 45,Bank Transfer,"error: invalid date ""2022-10-31""",true
+207,Construction,Engineering,v4,81333.33,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+208,Services,Airport,v3,808.99,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+209,Supply,Engineering,v2,21117.61,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",true
+210,Services,Engineering,v4,44085.06,Net 45,PayPal,"error: invalid date ""2022-10-31""",true
+211,Supply,Airport,v2,41479.32,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+212,Services,Bridge and Highway,v4,64993.62,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+213,Maintenance,Engineering,v1,29622.69,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",true
+214,Construction,Bridge and Highway,v2,65339.66,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+215,Services,Airport,v1,44596.62,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+216,Construction,Engineering,v2,36190.39,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",false
+217,Supply,Airport,v5,98988.88,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+218,Services,Engineering,v1,66859.25,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+219,Services,Engineering,v2,75013.06,Net 45,PayPal,"error: invalid date ""2022-10-31""",false
+220,Supply,Engineering,v4,93973.01,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+221,Supply,Airport,v3,8756.95,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+222,Construction,Airport,v2,24674.16,Net 30,Bank Transfer,"error: invalid date ""2022-10-31""",true
+223,Construction,Bridge and Highway,v2,80197.3,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+224,Supply,Engineering,v1,16975.92,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",false
+225,Services,Engineering,v5,59296.39,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+226,Services,Engineering,v1,55109.5,Net 30,Credit Card,"error: invalid date ""2022-10-31""",false
+227,Services,Engineering,v5,26900.23,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+228,Supply,Airport,v4,81927.55,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+229,Services,Airport,v1,23562.02,Net 30,Bank Transfer,"error: invalid date ""2022-10-31""",false
+230,Construction,Engineering,v5,95160.18,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+231,Services,Engineering,v2,91366.32,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+232,Services,Port,v5,55823.87,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+233,Construction,Airport,v4,8757.83,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+234,Services,Port,v5,37664.52,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+235,Supply,Airport,v1,16328.66,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+236,Services,Engineering,v1,35373.35,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",false
+237,Services,Engineering,v2,72064.93,Net 30,Bank Transfer,"error: invalid date ""2022-10-31""",true
+238,Construction,Engineering,v4,32640.44,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+239,Maintenance,Engineering,v2,18820.43,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+240,Services,Bridge and Highway,v1,57336.96,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+241,Supply,Engineering,v5,48195.92,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+242,Services,Engineering,v4,44653.33,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+243,Services,Engineering,v1,19713.13,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+244,Maintenance,Public Works,v5,83818.69,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+245,Supply,Port,v4,88043.9,Net 45,PayPal,"error: invalid date ""2022-10-31""",false
+246,Services,Port,v2,94900.3,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+247,Services,Engineering,v2,1741.62,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+248,Construction,Engineering,v2,84522.51,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+249,Services,Port,v3,28866.57,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+250,Construction,Airport,v1,80644.21,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",false
+251,Supply,Port,v2,4507.34,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",false
+252,Maintenance,Engineering,v5,78785.71,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+253,Services,Port,v1,80406.68,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+254,Services,Port,v5,42211.62,Net 45,PayPal,"error: invalid date ""2022-10-31""",false
+255,Construction,Port,v3,62493.24,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+256,Maintenance,Engineering,v1,79003.47,Net 45,Bank Transfer,"error: invalid date ""2022-10-31""",false
+257,Supply,Engineering,v3,341.65,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+258,Supply,Engineering,v4,24466.29,Net 45,Bank Transfer,"error: invalid date ""2022-10-31""",true
+259,Supply,Public Works,v1,84779.6,Net 30,Credit Card,"error: invalid date ""2022-10-31""",true
+260,Services,Port,v5,7806.96,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+261,Supply,Bridge and Highway,v1,45967.66,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+262,Supply,Engineering,v2,9122.46,Net 30,Bank Transfer,"error: invalid date ""2022-10-31""",true
+263,Services,Bridge and Highway,v1,98023.75,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+264,Supply,Bridge and Highway,v3,25920.21,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+265,Services,Engineering,v5,37830.8,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+266,Supply,Engineering,v3,5273.88,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+267,Services,Engineering,v2,20132.39,Net 45,PayPal,"error: invalid date ""2022-10-31""",true
+268,Services,Engineering,v5,8109.26,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+269,Services,Public Works,v5,37685.72,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+270,Services,Engineering,v5,64155.8,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+271,Services,Bridge and Highway,v4,67830.6,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+272,Construction,Bridge and Highway,v3,39302.24,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",false
+273,Construction,Airport,v5,36346.94,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+274,Supply,Engineering,v1,21417.56,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+275,Supply,Public Works,v2,53813.85,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+276,Services,Port,v1,68056.31,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",false
+277,Services,Engineering,v1,58839.16,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+278,Supply,Engineering,v4,23443.36,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+279,Services,Port,v3,47557.84,Net 30,Credit Card,"error: invalid date ""2022-10-31""",true
+280,Maintenance,Engineering,v3,92890.65,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+281,Supply,Airport,v3,77731.81,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+282,Supply,Public Works,v4,88805.6,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+283,Supply,Airport,v5,79394.94,Net 30,Credit Card,"error: invalid date ""2022-10-31""",true
+284,Construction,Engineering,v1,53190.5,Net 30,Credit Card,"error: invalid date ""2022-10-31""",true
+285,Services,Bridge and Highway,v4,52906.38,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+286,Services,Public Works,v4,65519.41,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+287,Services,Bridge and Highway,v1,58582.18,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+288,Services,Transportation,v2,92757.75,Net 45,PayPal,"error: invalid date ""2022-10-31""",true
+289,Maintenance,Airport,v2,28101.4,Net 45,PayPal,"error: invalid date ""2022-10-31""",false
+290,Supply,Engineering,v3,82598.83,Net 45,PayPal,"error: invalid date ""2022-10-31""",true
+291,Supply,Engineering,v1,9408.37,Net 45,PayPal,"error: invalid date ""2022-10-31""",true
+292,Supply,Bridge and Highway,v5,99166.78,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+293,Maintenance,Airport,v5,79848.91,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+294,Services,Transportation,v1,98293.98,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+295,Supply,Engineering,v3,13113.73,Net 30,Bank Transfer,"error: invalid date ""2022-10-31""",true
+296,Services,Engineering,v5,10269.23,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",true
+297,Services,Engineering,v5,67267.52,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+298,Services,Bridge and Highway,v2,36175.5,Net 30,Credit Card,"error: invalid date ""2022-10-31""",true
+299,Supply,Airport,v1,87941.3,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+300,Services,Engineering,v2,75527.33,Net 45,Bank Transfer,"error: invalid date ""2022-10-31""",false
+301,Supply,Bridge and Highway,v3,60357.97,Net 45,PayPal,"error: invalid date ""2022-10-31""",false
+302,Supply,Engineering,v5,87205.81,Net 30,Credit Card,"error: invalid date ""2022-10-31""",true
+303,Supply,Engineering,v4,30429.61,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+304,Construction,Port,v2,40388.79,Net 45,Bank Transfer,"error: invalid date ""2022-10-31""",true
+305,Services,Engineering,v1,2861.82,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+306,Supply,Public Works,v1,83672.66,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",true
+307,Supply,Engineering,v3,89851.31,Net 45,PayPal,"error: invalid date ""2022-10-31""",false
+308,Supply,Engineering,v1,75682.35,Net 30,Bank Transfer,"error: invalid date ""2022-10-31""",false
+309,Services,Public Works,v4,41495.97,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+310,Supply,Port,v2,14330.34,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+311,Services,Airport,v3,71750.37,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+312,Services,Public Works,v5,192.06,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+313,Services,Port,v5,64854.58,Net 30,PayPal,"error: invalid date ""2022-10-31""",false
+314,Supply,Engineering,v4,51660.7,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+315,Services,Engineering,v5,62423.1,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+316,Services,Engineering,v2,95789.19,Net 45,PayPal,"error: invalid date ""2022-10-31""",false
+317,Services,Airport,v1,75519.91,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+318,Services,Public Works,v1,6280.54,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+319,Services,Public Works,v1,18216.35,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+320,Construction,Engineering,v2,35985.91,Net 30,Credit Card,"error: invalid date ""2022-10-31""",true
+321,Construction,Engineering,v2,77494.04,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+322,Supply,Engineering,v2,89394.05,Net 45,Bank Transfer,"error: invalid date ""2022-10-31""",false
+323,Maintenance,Public Works,v5,87401.65,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+324,Services,Bridge and Highway,v5,36456.62,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+325,Services,Engineering,v2,9052.98,Net 45,PayPal,"error: invalid date ""2022-10-31""",true
+326,Services,Public Works,v2,52946.65,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",false
+327,Construction,Public Works,v3,83140.41,Net 30,Credit Card,"error: invalid date ""2022-10-31""",false
+328,Construction,Bridge and Highway,v3,23231.86,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+329,Supply,Engineering,v4,12350.96,Net 45,Bank Transfer,"error: invalid date ""2022-10-31""",false
+330,Supply,Engineering,v5,33716.71,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+331,Services,Engineering,v5,54497.55,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+332,Services,Bridge and Highway,v5,50683.21,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+333,Supply,Engineering,v1,98748.45,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+334,Supply,Engineering,v1,41991.38,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+335,Supply,Engineering,v3,29921.48,Net 45,PayPal,"error: invalid date ""2022-10-31""",false
+336,Services,Public Works,v2,88901.77,Net 30,Credit Card,"error: invalid date ""2022-10-31""",true
+337,Services,Airport,v5,88824.67,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+338,Supply,Engineering,v4,97578.01,Net 45,PayPal,"error: invalid date ""2022-10-31""",true
+339,Maintenance,Engineering,v2,46932.52,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+340,Supply,Engineering,v2,7259.98,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+341,Supply,Bridge and Highway,v1,24950.67,Net 30,PayPal,"error: invalid date ""2022-10-31""",true
+342,Services,Engineering,v2,35898.85,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",true
+343,Construction,Public Works,v5,6685.34,Net 30,PayPal,"error: invalid date ""2022-10-31""",true
+344,Maintenance,Transportation,v2,63859.54,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+345,Construction,Engineering,v5,18297.43,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+346,Supply,Public Works,v1,25447.89,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+347,Supply,Engineering,v4,31498.78,Net 30,Bank Transfer,"error: invalid date ""2022-10-31""",false
+348,Services,Engineering,v3,50168.42,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+349,Supply,Transportation,v3,54152.61,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+350,Construction,Public Works,v4,88701.99,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+351,Supply,Airport,v5,7670.83,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+352,Services,Engineering,v1,95361.17,Net 45,PayPal,"error: invalid date ""2022-10-31""",true
+353,Construction,Engineering,v5,72747.34,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+354,Supply,Airport,v1,46691.2,Net 30,PayPal,"error: invalid date ""2022-10-31""",false
+355,Services,Port,v4,15425.34,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+356,Services,Transportation,v5,85110.58,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+357,Supply,Bridge and Highway,v1,27787.3,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+358,Services,Airport,v4,29406.7,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+359,Maintenance,Engineering,v5,32861.01,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+360,Supply,Engineering,v5,97339.85,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+361,Maintenance,Bridge and Highway,v4,52059.83,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+362,Services,Public Works,v5,59326.36,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",false
+363,Services,Airport,v5,35054.75,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+364,Services,Airport,v5,97449.32,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+365,Maintenance,Airport,v3,86945.18,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+366,Supply,Port,v4,57572.86,Net 45,PayPal,"error: invalid date ""2022-10-31""",true
+367,Supply,Transportation,v2,55577.07,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+368,Construction,Airport,v4,19325.69,Net 30,PayPal,"error: invalid date ""2022-10-31""",true
+369,Services,Engineering,v5,76686.46,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+370,Services,Bridge and Highway,v5,86276.34,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+371,Services,Engineering,v1,23459.09,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+372,Supply,Bridge and Highway,v1,15102.08,Net 30,PayPal,"error: invalid date ""2022-10-31""",false
+373,Supply,Bridge and Highway,v2,3785.56,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+374,Construction,Public Works,v1,43668.81,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+375,Supply,Port,v2,45108.64,Net 45,PayPal,"error: invalid date ""2022-10-31""",false
+376,Supply,Port,v4,963.47,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+377,Supply,Engineering,v5,53432.22,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",false
+378,Construction,Engineering,v2,1089.77,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+379,Supply,Port,v4,37098.8,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+380,Maintenance,Engineering,v5,51494.7,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",true
+381,Maintenance,Bridge and Highway,v5,53288.3,Net 45,PayPal,"error: invalid date ""2022-10-31""",false
+382,Services,Bridge and Highway,v5,46071.07,Net 30,Credit Card,"error: invalid date ""2022-10-31""",true
+383,Services,Public Works,v5,18124.74,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+384,Services,Public Works,v5,98220.38,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+385,Services,Port,v4,25549.38,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+386,Services,Bridge and Highway,v4,62928.98,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+387,Supply,Public Works,v4,9176.63,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+388,Supply,Engineering,v5,86115.87,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+389,Supply,Bridge and Highway,v5,45854.99,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+390,Construction,Public Works,v4,48360.17,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+391,Services,Engineering,v1,24467.78,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+392,Services,Airport,v5,28203.66,Net 45,PayPal,"error: invalid date ""2022-10-31""",true
+393,Services,Engineering,v3,33091.39,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+394,Supply,Engineering,v1,42538.68,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+395,Construction,Port,v2,47236.53,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+396,Services,Public Works,v2,96705.98,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+397,Services,Engineering,v1,96234.06,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+398,Supply,Engineering,v4,45526.95,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+399,Services,Engineering,v3,25857.16,Net 45,PayPal,"error: invalid date ""2022-10-31""",true
+400,Services,Airport,v5,60853.89,Net 45,PayPal,"error: invalid date ""2022-10-31""",false
+401,Maintenance,Airport,v2,1390.88,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+402,Services,Engineering,v5,78554.86,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+403,Services,Engineering,v1,81245.45,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+404,Supply,Bridge and Highway,v2,59805.55,Net 30,PayPal,"error: invalid date ""2022-10-31""",true
+405,Services,Engineering,v1,54000.13,Net 45,PayPal,"error: invalid date ""2022-10-31""",false
+406,Construction,Port,v5,7379.21,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+407,Supply,Engineering,v5,25881.89,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+408,Services,Public Works,v1,5238.63,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",false
+409,Services,Public Works,v5,43094.89,Net 30,PayPal,"error: invalid date ""2022-10-31""",false
+410,Maintenance,Airport,v3,96891.06,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",true
+411,Supply,Port,v2,87312.82,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+412,Construction,Airport,v5,44937.27,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",true
+413,Construction,Public Works,v5,76576.17,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+414,Construction,Engineering,v3,95303.12,Net 30,Credit Card,"error: invalid date ""2022-10-31""",false
+415,Supply,Engineering,v5,4668.29,Net 45,PayPal,"error: invalid date ""2022-10-31""",false
+416,Construction,Public Works,v1,90623.89,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+417,Supply,Engineering,v5,4606.36,Net 30,Credit Card,"error: invalid date ""2022-10-31""",true
+418,Maintenance,Engineering,v2,818.4,Net 30,PayPal,"error: invalid date ""2022-10-31""",false
+419,Construction,Bridge and Highway,v5,10938.47,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+420,Supply,Engineering,v1,50787.08,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",false
+421,Services,Airport,v4,5518.95,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",false
+422,Services,Engineering,v2,10873.51,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+423,Services,Engineering,v5,8728.99,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+424,Supply,Engineering,v4,34308.22,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+425,Services,Bridge and Highway,v2,76041.83,Net 45,Bank Transfer,"error: invalid date ""2022-10-31""",false
+426,Services,Public Works,v1,21231.27,Net 45,PayPal,"error: invalid date ""2022-10-31""",false
+427,Supply,Airport,v5,29251.17,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+428,Supply,Bridge and Highway,v2,26995.71,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+429,Maintenance,Bridge and Highway,v3,2131.76,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+430,Services,Bridge and Highway,v2,76076.82,Net 30,Bank Transfer,"error: invalid date ""2022-10-31""",true
+431,Services,Port,v1,5587.33,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+432,Services,Engineering,v1,43502.44,Net 45,Bank Transfer,"error: invalid date ""2022-10-31""",false
+433,Services,Engineering,v2,90629.86,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+434,Supply,Bridge and Highway,v4,87342.78,Net 30,Credit Card,"error: invalid date ""2022-10-31""",false
+435,Supply,Engineering,v1,6048.55,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+436,Supply,Transportation,v1,94077.49,Net 45,PayPal,"error: invalid date ""2022-10-31""",false
+437,Services,Engineering,v3,27329.54,Net 45,PayPal,"error: invalid date ""2022-10-31""",true
+438,Services,Public Works,v2,55929.25,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+439,Construction,Public Works,v2,58794.49,Net 30,Credit Card,"error: invalid date ""2022-10-31""",true
+440,Services,Transportation,v5,27563.18,Net 45,PayPal,"error: invalid date ""2022-10-31""",false
+441,Services,Port,v4,25209.5,Net 30,Credit Card,"error: invalid date ""2022-10-31""",true
+442,Maintenance,Port,v4,47539.39,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+443,Supply,Bridge and Highway,v1,58229.09,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+444,Maintenance,Transportation,v4,34138.49,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+445,Services,Engineering,v1,1716.18,Net 30,Credit Card,"error: invalid date ""2022-10-31""",false
+446,Maintenance,Port,v1,80920.36,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",false
+447,Construction,Public Works,v5,12057.06,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+448,Services,Public Works,v1,4517.85,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+449,Services,Bridge and Highway,v2,48473.9,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+450,Maintenance,Engineering,v5,59777.78,Net 30,Bank Transfer,"error: invalid date ""2022-10-31""",false
+451,Services,Port,v1,11119.27,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+452,Services,Airport,v3,4317.04,Net 45,PayPal,"error: invalid date ""2022-10-31""",false
+453,Maintenance,Engineering,v5,13980.92,Net 30,Bank Transfer,"error: invalid date ""2022-10-31""",true
+454,Construction,Bridge and Highway,v1,7573.8,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+455,Supply,Public Works,v4,85359.0,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+456,Supply,Public Works,v1,4615.7,Net 45,PayPal,"error: invalid date ""2022-10-31""",true
+457,Services,Engineering,v4,68483.12,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+458,Supply,Bridge and Highway,v3,90014.32,Net 30,PayPal,"error: invalid date ""2022-10-31""",false
+459,Supply,Public Works,v4,29090.21,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",true
+460,Supply,Port,v1,32716.18,Net 45,PayPal,"error: invalid date ""2022-10-31""",false
+461,Construction,Port,v5,19976.16,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+462,Supply,Public Works,v1,22111.11,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+463,Supply,Engineering,v3,87317.7,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+464,Supply,Engineering,v5,44062.52,Net 45,PayPal,"error: invalid date ""2022-10-31""",true
+465,Services,Engineering,v1,14580.43,Net 30,PayPal,"error: invalid date ""2022-10-31""",false
+466,Services,Engineering,v5,43052.61,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+467,Services,Engineering,v1,37780.92,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+468,Supply,Airport,v2,74450.02,Net 30,Credit Card,"error: invalid date ""2022-10-31""",false
+469,Supply,Public Works,v2,32573.24,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+470,Supply,Port,v5,94569.11,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+471,Supply,Engineering,v2,46725.68,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+472,Services,Airport,v1,87071.48,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+473,Supply,Airport,v1,11722.4,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+474,Services,Port,v5,89782.48,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+475,Supply,Bridge and Highway,v1,10453.73,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+476,Supply,Engineering,v5,38100.27,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+477,Construction,Public Works,v2,66603.91,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+478,Services,Public Works,v2,13780.56,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",false
+479,Services,Engineering,v1,52646.41,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+480,Services,Engineering,v2,26010.36,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+481,Supply,Bridge and Highway,v1,4279.96,Net 30,PayPal,"error: invalid date ""2022-10-31""",true
+482,Services,Engineering,v2,47760.9,Net 45,Bank Transfer,"error: invalid date ""2022-10-31""",false
+483,Services,Bridge and Highway,v5,17186.98,Net 45,PayPal,"error: invalid date ""2022-10-31""",true
+484,Services,Public Works,v4,57093.0,Net 45,Bank Transfer,"error: invalid date ""2022-10-31""",false
+485,Construction,Engineering,v1,3671.69,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+486,Maintenance,Engineering,v4,23852.47,Net 45,PayPal,"error: invalid date ""2022-10-31""",true
+487,Construction,Transportation,v1,91689.91,Net 45,Bank Transfer,"error: invalid date ""2022-10-31""",true
+488,Construction,Airport,v1,33132.78,Net 30,Bank Transfer,"error: invalid date ""2022-10-31""",false
+489,Maintenance,Engineering,v1,43292.33,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+490,Services,Public Works,v5,57315.62,Net 45,Bank Transfer,"error: invalid date ""2022-10-31""",true
+491,Maintenance,Bridge and Highway,v3,45015.65,Net 45,Bank Transfer,"error: invalid date ""2022-10-31""",true
+492,Services,Public Works,v3,96112.89,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+493,Services,Engineering,v5,95065.91,Net 45,PayPal,"error: invalid date ""2022-10-31""",true
+494,Services,Bridge and Highway,v1,60336.06,Net 30,Credit Card,"error: invalid date ""2022-10-31""",true
+495,Construction,Bridge and Highway,v5,81484.74,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+496,Construction,Engineering,v5,9365.97,Net 30,Credit Card,"error: invalid date ""2022-10-31""",true
+497,Supply,Public Works,v2,27603.64,Net 45,Bank Transfer,"error: invalid date ""2022-10-31""",true
+498,Services,Engineering,v5,33166.83,Net 30,PayPal,"error: invalid date ""2022-10-31""",true
+499,Supply,Bridge and Highway,v1,55431.62,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",false
+500,Services,Airport,v4,66941.75,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+501,Services,Public Works,v5,77348.16,Net 30,Credit Card,"error: invalid date ""2022-10-31""",false
+502,Construction,Engineering,v2,90969.09,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+503,Supply,Bridge and Highway,v5,57514.53,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+504,Services,Bridge and Highway,v2,63223.04,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+505,Supply,Public Works,v2,85068.86,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+506,Construction,Engineering,v3,62363.46,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+507,Supply,Engineering,v3,70793.77,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+508,Maintenance,Public Works,v4,68438.53,Net 45,PayPal,"error: invalid date ""2022-10-31""",true
+509,Services,Public Works,v2,77869.06,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+510,Supply,Engineering,v1,35219.39,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",false
+511,Supply,Engineering,v5,10560.38,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+512,Construction,Bridge and Highway,v5,86346.56,Net 30,Credit Card,"error: invalid date ""2022-10-31""",false
+513,Services,Public Works,v5,37725.21,Net 30,PayPal,"error: invalid date ""2022-10-31""",true
+514,Construction,Airport,v4,83596.34,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+515,Services,Bridge and Highway,v1,31695.35,Net 30,Credit Card,"error: invalid date ""2022-10-31""",false
+516,Construction,Airport,v5,51635.53,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+517,Supply,Engineering,v1,61708.67,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+518,Services,Engineering,v1,40468.37,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",true
+519,Services,Public Works,v2,40727.89,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+520,Services,Bridge and Highway,v4,48739.53,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",false
+521,Services,Engineering,v2,825.45,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+522,Supply,Bridge and Highway,v1,44575.15,Net 30,Credit Card,"error: invalid date ""2022-10-31""",true
+523,Construction,Engineering,v2,21727.29,Net 30,Credit Card,"error: invalid date ""2022-10-31""",true
+524,Services,Engineering,v3,98243.9,Net 30,Credit Card,"error: invalid date ""2022-10-31""",true
+525,Construction,Engineering,v4,30378.72,Net 30,Credit Card,"error: invalid date ""2022-10-31""",true
+526,Construction,Public Works,v5,81186.16,Net 30,Credit Card,"error: invalid date ""2022-10-31""",true
+527,Services,Engineering,v5,30373.38,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+528,Supply,Engineering,v2,66613.13,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",false
+529,Construction,Port,v1,69305.3,Net 45,PayPal,"error: invalid date ""2022-10-31""",true
+530,Services,Engineering,v2,76056.0,Net 30,Credit Card,"error: invalid date ""2022-10-31""",false
+531,Services,Bridge and Highway,v5,32217.73,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+532,Supply,Engineering,v1,16770.32,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+533,Supply,Bridge and Highway,v2,31154.1,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+534,Services,Engineering,v1,24444.75,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+535,Construction,Bridge and Highway,v3,58857.98,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+536,Services,Engineering,v1,10605.68,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+537,Construction,Engineering,v4,55627.06,Net 30,Credit Card,"error: invalid date ""2022-10-31""",false
+538,Maintenance,Engineering,v2,59431.56,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+539,Services,Port,v4,39269.61,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+540,Maintenance,Engineering,v1,37198.85,Net 30,PayPal,"error: invalid date ""2022-10-31""",false
+541,Services,Public Works,v2,92423.28,Net 30,PayPal,"error: invalid date ""2022-10-31""",true
+542,Maintenance,Airport,v3,93773.95,Net 30,PayPal,"error: invalid date ""2022-10-31""",false
+543,Supply,Transportation,v4,81049.83,Net 30,Credit Card,"error: invalid date ""2022-10-31""",false
+544,Services,Engineering,v4,93891.51,Net 45,Bank Transfer,"error: invalid date ""2022-10-31""",false
+545,Services,Airport,v5,45056.6,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+546,Construction,Bridge and Highway,v1,38955.6,Net 45,PayPal,"error: invalid date ""2022-10-31""",false
+547,Services,Engineering,v5,94384.62,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+548,Supply,Bridge and Highway,v1,2176.92,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+549,Services,Public Works,v2,15907.8,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",true
+550,Construction,Bridge and Highway,v4,10516.19,Net 45,Bank Transfer,"error: invalid date ""2022-10-31""",false
+551,Supply,Engineering,v5,37195.16,Net 30,Bank Transfer,"error: invalid date ""2022-10-31""",false
+552,Construction,Engineering,v5,52878.0,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",false
+553,Supply,Bridge and Highway,v2,93782.44,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+554,Construction,Bridge and Highway,v1,19331.11,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+555,Services,Bridge and Highway,v2,84980.56,Net 45,PayPal,"error: invalid date ""2022-10-31""",false
+556,Services,Engineering,v5,71425.11,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+557,Supply,Engineering,v5,76638.61,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+558,Supply,Public Works,v2,82789.64,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+559,Supply,Engineering,v3,97140.82,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+560,Supply,Public Works,v4,90104.07,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+561,Services,Public Works,v5,90641.16,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",false
+562,Supply,Bridge and Highway,v1,77625.8,Net 45,Bank Transfer,"error: invalid date ""2022-10-31""",false
+563,Services,Port,v2,68498.04,Net 45,Bank Transfer,"error: invalid date ""2022-10-31""",false
+564,Services,Public Works,v1,45309.7,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+565,Services,Engineering,v2,51867.24,Net 30,PayPal,"error: invalid date ""2022-10-31""",true
+566,Supply,Public Works,v4,99271.3,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+567,Supply,Airport,v2,80259.87,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+568,Services,Port,v4,47170.96,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+569,Maintenance,Public Works,v2,10314.1,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+570,Services,Engineering,v1,57342.77,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+571,Supply,Bridge and Highway,v1,63469.36,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+572,Construction,Public Works,v2,24481.92,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+573,Services,Public Works,v3,98685.04,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+574,Services,Engineering,v5,63283.63,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+575,Construction,Port,v3,76587.78,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+576,Construction,Airport,v5,12533.2,Net 45,PayPal,"error: invalid date ""2022-10-31""",false
+577,Services,Public Works,v5,8846.79,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",false
+578,Services,Public Works,v4,7579.4,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+579,Services,Airport,v1,37308.78,Net 30,Credit Card,"error: invalid date ""2022-10-31""",true
+580,Services,Port,v4,45895.25,Net 45,PayPal,"error: invalid date ""2022-10-31""",false
+581,Maintenance,Engineering,v2,34121.88,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+582,Supply,Airport,v2,9313.41,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+583,Construction,Airport,v2,81761.23,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+584,Maintenance,Bridge and Highway,v5,56222.85,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+585,Maintenance,Engineering,v1,32382.36,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+586,Supply,Public Works,v3,42865.72,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+587,Services,Engineering,v3,66697.69,Net 45,PayPal,"error: invalid date ""2022-10-31""",false
+588,Construction,Engineering,v5,46132.0,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+589,Services,Engineering,v5,93042.74,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+590,Construction,Engineering,v5,14759.61,Net 30,Credit Card,"error: invalid date ""2022-10-31""",false
+591,Services,Engineering,v5,43011.09,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+592,Services,Engineering,v4,74460.26,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+593,Supply,Engineering,v2,38725.93,Net 30,PayPal,"error: invalid date ""2022-10-31""",true
+594,Supply,Port,v4,45363.62,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+595,Services,Engineering,v1,37098.35,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+596,Services,Public Works,v1,90698.94,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+597,Construction,Public Works,v3,42433.91,Net 30,PayPal,"error: invalid date ""2022-10-31""",true
+598,Supply,Bridge and Highway,v5,52122.1,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+599,Supply,Airport,v5,36687.83,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+600,Services,Airport,v5,14394.14,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+601,Services,Public Works,v5,28203.32,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+602,Supply,Engineering,v2,22991.97,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",true
+603,Services,Airport,v3,99223.81,Net 30,Credit Card,"error: invalid date ""2022-10-31""",true
+604,Construction,Bridge and Highway,v2,58005.07,Net 45,Bank Transfer,"error: invalid date ""2022-10-31""",false
+605,Services,Public Works,v1,97186.97,Net 30,Credit Card,"error: invalid date ""2022-10-31""",true
+606,Supply,Public Works,v5,79442.61,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",false
+607,Supply,Public Works,v3,8150.05,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+608,Services,Engineering,v2,10068.51,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+609,Construction,Bridge and Highway,v2,12307.23,Net 30,PayPal,"error: invalid date ""2022-10-31""",true
+610,Supply,Engineering,v3,56143.54,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+611,Construction,Engineering,v1,44158.22,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+612,Maintenance,Engineering,v2,59126.11,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+613,Construction,Public Works,v1,75103.23,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",false
+614,Maintenance,Bridge and Highway,v5,15321.83,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+615,Services,Engineering,v4,71581.28,Net 45,PayPal,"error: invalid date ""2022-10-31""",false
+616,Supply,Engineering,v4,29714.46,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+617,Construction,Engineering,v3,89138.68,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+618,Services,Engineering,v4,62221.07,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+619,Services,Airport,v4,29003.38,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+620,Services,Bridge and Highway,v2,79673.97,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",false
+621,Supply,Port,v1,92362.21,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+622,Services,Public Works,v3,56211.46,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",true
+623,Services,Bridge and Highway,v4,19782.08,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+624,Supply,Bridge and Highway,v2,63511.84,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+625,Supply,Port,v4,51648.28,Net 30,PayPal,"error: invalid date ""2022-10-31""",false
+626,Supply,Engineering,v1,25901.24,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",false
+627,Services,Engineering,v3,41196.04,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+628,Supply,Bridge and Highway,v4,3243.62,Net 30,Credit Card,"error: invalid date ""2022-10-31""",true
+629,Maintenance,Engineering,v1,35444.6,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+630,Services,Public Works,v2,49431.79,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",false
+631,Supply,Bridge and Highway,v2,21076.97,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+632,Services,Port,v3,42853.47,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+633,Services,Engineering,v3,4031.85,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+634,Construction,Port,v4,27770.7,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",false
+635,Supply,Port,v4,22450.76,Net 45,Bank Transfer,"error: invalid date ""2022-10-31""",true
+636,Services,Public Works,v1,2954.21,Net 30,Credit Card,"error: invalid date ""2022-10-31""",true
+637,Services,Bridge and Highway,v2,41744.79,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+638,Supply,Airport,v5,5114.19,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+639,Services,Engineering,v1,23950.65,Net 30,PayPal,"error: invalid date ""2022-10-31""",true
+640,Maintenance,Engineering,v5,21133.72,Net 30,PayPal,"error: invalid date ""2022-10-31""",false
+641,Supply,Engineering,v1,65518.15,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+642,Supply,Engineering,v5,68098.46,Net 30,Credit Card,"error: invalid date ""2022-10-31""",false
+643,Services,Engineering,v3,20434.3,Net 30,Credit Card,"error: invalid date ""2022-10-31""",true
+644,Construction,Engineering,v4,31635.34,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+645,Supply,Airport,v5,11132.16,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+646,Construction,Engineering,v1,81074.05,Net 30,Bank Transfer,"error: invalid date ""2022-10-31""",false
+647,Maintenance,Engineering,v2,36290.7,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+648,Supply,Bridge and Highway,v5,66332.58,Net 30,PayPal,"error: invalid date ""2022-10-31""",false
+649,Services,Transportation,v4,93106.46,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",true
+650,Supply,Public Works,v1,41951.8,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+651,Services,Public Works,v1,7307.97,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",false
+652,Services,Engineering,v5,77054.76,Net 45,PayPal,"error: invalid date ""2022-10-31""",false
+653,Maintenance,Engineering,v5,16501.89,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+654,Construction,Engineering,v2,61337.02,Net 30,Credit Card,"error: invalid date ""2022-10-31""",false
+655,Services,Bridge and Highway,v2,30702.15,Net 30,Credit Card,"error: invalid date ""2022-10-31""",false
+656,Construction,Engineering,v5,58387.3,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",false
+657,Services,Engineering,v4,76209.78,Net 30,PayPal,"error: invalid date ""2022-10-31""",true
+658,Supply,Public Works,v5,34219.26,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+659,Services,Public Works,v5,94051.65,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+660,Supply,Bridge and Highway,v5,31305.92,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+661,Supply,Engineering,v2,89638.38,Net 45,PayPal,"error: invalid date ""2022-10-31""",false
+662,Construction,Public Works,v5,37840.63,Net 45,Bank Transfer,"error: invalid date ""2022-10-31""",false
+663,Services,Public Works,v5,35341.36,Net 45,PayPal,"error: invalid date ""2022-10-31""",false
+664,Supply,Engineering,v5,64259.28,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+665,Services,Public Works,v1,43852.5,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+666,Construction,Transportation,v2,49338.58,Net 45,Bank Transfer,"error: invalid date ""2022-10-31""",true
+667,Supply,Bridge and Highway,v1,66005.97,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+668,Supply,Public Works,v5,94565.26,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+669,Maintenance,Engineering,v5,85059.6,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",true
+670,Supply,Port,v1,42154.02,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+671,Supply,Engineering,v1,95326.27,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",false
+672,Construction,Port,v4,35732.29,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+673,Services,Transportation,v1,51547.74,Net 45,PayPal,"error: invalid date ""2022-10-31""",false
+674,Services,Engineering,v2,89595.59,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+675,Services,Engineering,v2,73436.65,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+676,Services,Engineering,v2,22362.58,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+677,Construction,Bridge and Highway,v1,27872.56,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+678,Services,Engineering,v5,24783.04,Net 45,Bank Transfer,"error: invalid date ""2022-10-31""",true
+679,Construction,Port,v4,1207.98,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",true
+680,Services,Port,v2,29335.36,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+681,Supply,Engineering,v4,29838.56,Net 30,Credit Card,"error: invalid date ""2022-10-31""",true
+682,Services,Public Works,v2,72914.34,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+683,Construction,Engineering,v5,7560.56,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+684,Services,Public Works,v1,57707.14,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+685,Supply,Engineering,v1,80418.58,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+686,Supply,Public Works,v5,61545.98,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+687,Supply,Engineering,v4,22873.88,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+688,Services,Bridge and Highway,v1,11907.15,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+689,Construction,Airport,v5,42182.07,Net 45,PayPal,"error: invalid date ""2022-10-31""",false
+690,Services,Engineering,v1,12490.68,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+691,Services,Engineering,v2,71043.65,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+692,Supply,Engineering,v1,49601.7,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",true
+693,Construction,Public Works,v3,8186.83,Net 30,Credit Card,"error: invalid date ""2022-10-31""",false
+694,Services,Engineering,v4,92950.15,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",false
+695,Construction,Public Works,v1,51310.78,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+696,Supply,Bridge and Highway,v1,28284.06,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",true
+697,Services,Public Works,v1,25819.54,Net 45,PayPal,"error: invalid date ""2022-10-31""",false
+698,Construction,Bridge and Highway,v2,37837.95,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",true
+699,Supply,Airport,v4,89929.17,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+700,Services,Public Works,v2,63101.39,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+701,Construction,Public Works,v5,34042.44,Net 30,Credit Card,"error: invalid date ""2022-10-31""",true
+702,Construction,Public Works,v5,6083.15,Net 30,PayPal,"error: invalid date ""2022-10-31""",true
+703,Services,Engineering,v5,7039.53,Net 45,Bank Transfer,"error: invalid date ""2022-10-31""",true
+704,Services,Engineering,v2,30472.53,Net 30,Credit Card,"error: invalid date ""2022-10-31""",false
+705,Construction,Airport,v2,42851.88,Net 45,PayPal,"error: invalid date ""2022-10-31""",false
+706,Services,Engineering,v1,1795.62,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+707,Construction,Engineering,v1,81265.95,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+708,Construction,Engineering,v5,80376.78,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+709,Supply,Port,v1,65296.64,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",true
+710,Supply,Engineering,v5,30354.05,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+711,Supply,Public Works,v4,64430.29,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+712,Services,Bridge and Highway,v2,2439.7,Net 30,PayPal,"error: invalid date ""2022-10-31""",false
+713,Construction,Engineering,v1,46324.54,Net 30,Bank Transfer,"error: invalid date ""2022-10-31""",false
+714,Services,Bridge and Highway,v1,49806.52,Net 45,PayPal,"error: invalid date ""2022-10-31""",true
+715,Services,Engineering,v2,46862.13,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+716,Services,Engineering,v1,85239.52,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+717,Services,Public Works,v5,97842.63,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+718,Construction,Port,v1,79946.52,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+719,Maintenance,Public Works,v1,79607.19,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+720,Construction,Bridge and Highway,v1,46072.87,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+721,Construction,Public Works,v5,9421.65,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+722,Supply,Engineering,v1,19163.31,Net 30,Credit Card,"error: invalid date ""2022-10-31""",true
+723,Services,Public Works,v4,67114.99,Net 30,PayPal,"error: invalid date ""2022-10-31""",false
+724,Supply,Engineering,v3,74212.12,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+725,Services,Engineering,v1,13673.45,Net 45,Bank Transfer,"error: invalid date ""2022-10-31""",false
+726,Supply,Public Works,v4,51069.52,Net 45,PayPal,"error: invalid date ""2022-10-31""",true
+727,Services,Port,v4,88968.95,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+728,Services,Engineering,v2,24498.5,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+729,Construction,Bridge and Highway,v4,71080.69,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",false
+730,Construction,Engineering,v2,58976.61,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+731,Maintenance,Public Works,v4,5557.19,Net 30,Credit Card,"error: invalid date ""2022-10-31""",false
+732,Maintenance,Public Works,v1,57861.56,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+733,Services,Public Works,v1,21383.54,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+734,Services,Public Works,v1,94501.69,Net 30,PayPal,"error: invalid date ""2022-10-31""",true
+735,Services,Engineering,v5,77182.35,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+736,Construction,Engineering,v5,32441.66,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+737,Supply,Port,v1,50854.83,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+738,Supply,Public Works,v1,9440.5,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",false
+739,Supply,Airport,v1,46137.0,Net 45,PayPal,"error: invalid date ""2022-10-31""",true
+740,Supply,Port,v1,94736.7,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",true
+741,Supply,Airport,v5,45184.62,Net 30,PayPal,"error: invalid date ""2022-10-31""",false
+742,Supply,Public Works,v1,49681.27,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+743,Services,Port,v1,3841.73,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+744,Supply,Public Works,v1,80841.94,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+745,Services,Airport,v2,73582.39,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+746,Construction,Transportation,v1,21230.8,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+747,Maintenance,Port,v5,60675.4,Net 30,Credit Card,"error: invalid date ""2022-10-31""",true
+748,Supply,Engineering,v5,3391.76,Net 45,Bank Transfer,"error: invalid date ""2022-10-31""",true
+749,Services,Bridge and Highway,v5,33522.92,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+750,Services,Public Works,v1,33182.01,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+751,Construction,Transportation,v5,74665.75,Net 30,Bank Transfer,"error: invalid date ""2022-10-31""",true
+752,Services,Bridge and Highway,v1,99832.57,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+753,Construction,Engineering,v5,86164.13,Net 30,Credit Card,"error: invalid date ""2022-10-31""",true
+754,Services,Transportation,v4,10785.06,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+755,Construction,Airport,v2,20351.66,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+756,Services,Port,v1,14015.61,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",true
+757,Supply,Engineering,v1,12724.96,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+758,Services,Bridge and Highway,v2,82547.5,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+759,Supply,Engineering,v2,81796.26,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+760,Construction,Engineering,v1,85627.65,Net 30,Credit Card,"error: invalid date ""2022-10-31""",false
+761,Services,Engineering,v4,62799.82,Net 30,Credit Card,"error: invalid date ""2022-10-31""",true
+762,Supply,Port,v4,9961.74,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+763,Services,Public Works,v4,61555.75,Net 45,Bank Transfer,"error: invalid date ""2022-10-31""",false
+764,Supply,Engineering,v2,68019.95,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+765,Construction,Airport,v2,88697.98,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+766,Supply,Port,v5,96206.45,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+767,Construction,Engineering,v5,28990.48,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+768,Services,Bridge and Highway,v3,83024.83,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+769,Construction,Public Works,v2,8569.65,Net 30,Credit Card,"error: invalid date ""2022-10-31""",true
+770,Construction,Port,v5,25423.61,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+771,Supply,Public Works,v5,42408.08,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+772,Construction,Public Works,v5,41576.62,Net 45,PayPal,"error: invalid date ""2022-10-31""",false
+773,Services,Public Works,v4,89268.23,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+774,Construction,Engineering,v4,11310.66,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+775,Maintenance,Engineering,v5,42764.64,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+776,Services,Public Works,v5,46267.14,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+777,Supply,Engineering,v2,39443.93,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",true
+778,Supply,Bridge and Highway,v5,4979.29,Net 30,PayPal,"error: invalid date ""2022-10-31""",true
+779,Construction,Engineering,v1,86984.51,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+780,Supply,Port,v1,76815.27,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+781,Supply,Engineering,v4,92221.44,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+782,Services,Airport,v3,59054.54,Net 45,Bank Transfer,"error: invalid date ""2022-10-31""",true
+783,Supply,Engineering,v2,7687.68,Net 45,PayPal,"error: invalid date ""2022-10-31""",true
+784,Supply,Bridge and Highway,v4,92303.54,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+785,Supply,Engineering,v1,65826.17,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+786,Services,Public Works,v1,95381.26,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+787,Supply,Public Works,v5,77260.79,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",false
+788,Services,Engineering,v1,15509.4,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+789,Supply,Port,v1,7815.85,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+790,Services,Public Works,v1,28864.8,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+791,Services,Transportation,v4,86193.52,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+792,Construction,Engineering,v2,52359.89,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+793,Construction,Public Works,v1,41855.37,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",false
+794,Services,Port,v5,67284.37,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",true
+795,Services,Airport,v3,47469.62,Net 30,PayPal,"error: invalid date ""2022-10-31""",false
+796,Maintenance,Public Works,v2,71134.79,Net 30,Credit Card,"error: invalid date ""2022-10-31""",false
+797,Services,Engineering,v5,83927.53,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+798,Supply,Port,v2,29986.82,Net 30,Bank Transfer,"error: invalid date ""2022-10-31""",true
+799,Services,Engineering,v5,48671.54,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+800,Services,Engineering,v2,65548.15,Net 45,Bank Transfer,"error: invalid date ""2022-10-31""",false
+801,Supply,Public Works,v4,50277.28,Net 30,Bank Transfer,"error: invalid date ""2022-10-31""",false
+802,Services,Public Works,v1,13105.96,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+803,Supply,Public Works,v1,46307.57,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",true
+804,Supply,Public Works,v5,19197.53,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+805,Services,Engineering,v5,47123.69,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",false
+806,Maintenance,Airport,v2,2086.94,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+807,Services,Public Works,v1,18985.94,Net 45,PayPal,"error: invalid date ""2022-10-31""",false
+808,Construction,Port,v1,30851.7,Net 30,Credit Card,"error: invalid date ""2022-10-31""",true
+809,Supply,Public Works,v1,46091.39,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+810,Services,Port,v1,3461.18,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+811,Supply,Engineering,v5,93375.57,Net 30,Credit Card,"error: invalid date ""2022-10-31""",true
+812,Supply,Public Works,v5,4335.63,Net 45,Bank Transfer,"error: invalid date ""2022-10-31""",true
+813,Construction,Airport,v2,34778.94,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+814,Services,Public Works,v1,95174.73,Net 30,Bank Transfer,"error: invalid date ""2022-10-31""",false
+815,Construction,Engineering,v1,56842.09,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",true
+816,Supply,Bridge and Highway,v4,19056.72,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+817,Supply,Bridge and Highway,v2,70480.41,Net 30,Bank Transfer,"error: invalid date ""2022-10-31""",true
+818,Supply,Public Works,v5,77643.95,Net 45,PayPal,"error: invalid date ""2022-10-31""",true
+819,Maintenance,Public Works,v5,53561.96,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+820,Services,Public Works,v3,55953.93,Net 45,Bank Transfer,"error: invalid date ""2022-10-31""",false
+821,Construction,Public Works,v4,36986.66,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+822,Supply,Transportation,v4,19483.88,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+823,Services,Engineering,v5,31720.37,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+824,Services,Public Works,v1,21459.56,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+825,Services,Bridge and Highway,v3,26718.16,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+826,Services,Transportation,v1,87310.37,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+827,Services,Bridge and Highway,v3,52603.77,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+828,Supply,Engineering,v5,85435.38,Net 30,PayPal,"error: invalid date ""2022-10-31""",true
+829,Services,Public Works,v4,47601.38,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+830,Services,Public Works,v4,11259.22,Net 45,Bank Transfer,"error: invalid date ""2022-10-31""",false
+831,Supply,Engineering,v2,72781.61,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+832,Services,Airport,v4,17695.34,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+833,Construction,Engineering,v4,29647.85,Net 45,PayPal,"error: invalid date ""2022-10-31""",true
+834,Supply,Transportation,v5,87891.93,Net 30,PayPal,"error: invalid date ""2022-10-31""",true
+835,Supply,Public Works,v3,88927.04,Net 30,Credit Card,"error: invalid date ""2022-10-31""",false
+836,Construction,Public Works,v4,67626.8,Net 30,PayPal,"error: invalid date ""2022-10-31""",false
+837,Construction,Engineering,v5,26633.0,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+838,Supply,Public Works,v1,77391.84,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",false
+839,Services,Engineering,v5,56193.29,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+840,Services,Bridge and Highway,v2,58525.81,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+841,Services,Public Works,v2,83802.41,Net 45,Bank Transfer,"error: invalid date ""2022-10-31""",true
+842,Services,Engineering,v1,18250.41,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+843,Construction,Public Works,v2,14714.1,Net 30,Credit Card,"error: invalid date ""2022-10-31""",true
+844,Construction,Bridge and Highway,v2,27166.58,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",false
+845,Supply,Engineering,v3,48736.04,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+846,Supply,Engineering,v3,64714.25,Net 30,Bank Transfer,"error: invalid date ""2022-10-31""",true
+847,Services,Engineering,v4,94402.93,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+848,Services,Engineering,v4,27999.77,Net 30,Credit Card,"error: invalid date ""2022-10-31""",false
+849,Services,Bridge and Highway,v1,61030.6,Net 45,PayPal,"error: invalid date ""2022-10-31""",true
+850,Services,Engineering,v4,64066.47,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+851,Supply,Public Works,v1,57206.96,Net 45,PayPal,"error: invalid date ""2022-10-31""",false
+852,Maintenance,Engineering,v3,70318.72,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+853,Maintenance,Port,v2,87787.41,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+854,Services,Port,v1,49933.25,Net 30,Bank Transfer,"error: invalid date ""2022-10-31""",false
+855,Services,Engineering,v1,72519.77,Net 30,Credit Card,"error: invalid date ""2022-10-31""",false
+856,Supply,Engineering,v1,77637.78,Net 45,Bank Transfer,"error: invalid date ""2022-10-31""",true
+857,Construction,Bridge and Highway,v1,81247.06,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+858,Services,Engineering,v5,74935.24,Net 45,Bank Transfer,"error: invalid date ""2022-10-31""",true
+859,Maintenance,Public Works,v5,64603.08,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+860,Services,Engineering,v1,92768.45,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+861,Services,Bridge and Highway,v1,84840.99,Net 45,PayPal,"error: invalid date ""2022-10-31""",false
+862,Services,Public Works,v1,52804.84,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+863,Services,Port,v4,18008.01,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",false
+864,Construction,Engineering,v5,1086.11,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+865,Supply,Airport,v4,32428.75,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+866,Supply,Engineering,v4,79340.31,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",false
+867,Maintenance,Engineering,v5,90519.41,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+868,Services,Engineering,v1,43499.0,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+869,Services,Public Works,v4,21093.2,Net 45,PayPal,"error: invalid date ""2022-10-31""",false
+870,Services,Public Works,v4,50858.03,Net 45,PayPal,"error: invalid date ""2022-10-31""",true
+871,Supply,Public Works,v1,93726.13,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+872,Construction,Engineering,v1,85533.87,Net 30,Bank Transfer,"error: invalid date ""2022-10-31""",true
+873,Construction,Public Works,v3,69625.4,Net 45,PayPal,"error: invalid date ""2022-10-31""",true
+874,Construction,Engineering,v4,74485.6,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+875,Supply,Engineering,v5,88853.67,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+876,Maintenance,Public Works,v4,29549.39,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+877,Supply,Engineering,v2,13373.27,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+878,Supply,Public Works,v4,37233.58,Net 45,PayPal,"error: invalid date ""2022-10-31""",false
+879,Services,Port,v1,41236.87,Net 45,PayPal,"error: invalid date ""2022-10-31""",false
+880,Services,Bridge and Highway,v4,77176.8,Net 45,Bank Transfer,"error: invalid date ""2022-10-31""",false
+881,Supply,Engineering,v5,94217.99,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+882,Construction,Port,v2,82543.05,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+883,Supply,Bridge and Highway,v5,92665.02,Net 30,Bank Transfer,"error: invalid date ""2022-10-31""",true
+884,Supply,Bridge and Highway,v1,88783.14,Net 30,Credit Card,"error: invalid date ""2022-10-31""",false
+885,Services,Engineering,v1,13472.75,Net 45,PayPal,"error: invalid date ""2022-10-31""",true
+886,Services,Bridge and Highway,v4,25205.66,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+887,Services,Public Works,v5,29201.82,Net 45,Bank Transfer,"error: invalid date ""2022-10-31""",true
+888,Supply,Port,v5,29906.57,Net 30,Bank Transfer,"error: invalid date ""2022-10-31""",true
+889,Construction,Public Works,v3,16132.55,Net 30,Credit Card,"error: invalid date ""2022-10-31""",true
+890,Services,Transportation,v1,39385.34,Net 30,Bank Transfer,"error: invalid date ""2022-10-31""",true
+891,Services,Engineering,v4,43140.59,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+892,Services,Engineering,v1,20920.67,Net 45,Bank Transfer,"error: invalid date ""2022-10-31""",true
+893,Services,Transportation,v4,9520.17,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+894,Services,Engineering,v5,72705.27,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+895,Construction,Airport,v2,67133.84,Net 45,PayPal,"error: invalid date ""2022-10-31""",false
+896,Construction,Engineering,v3,66411.2,Net 30,Credit Card,"error: invalid date ""2022-10-31""",false
+897,Construction,Bridge and Highway,v4,57987.19,Net 45,Bank Transfer,"error: invalid date ""2022-10-31""",false
+898,Services,Engineering,v1,79377.11,Net 30,Bank Transfer,"error: invalid date ""2022-10-31""",true
+899,Supply,Port,v4,39306.76,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",true
+900,Services,Engineering,v2,38321.95,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+901,Services,Bridge and Highway,v1,86252.83,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+902,Services,Port,v5,85638.6,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",true
+903,Construction,Engineering,v1,99737.56,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+904,Construction,Engineering,v1,88534.17,Net 45,PayPal,"error: invalid date ""2022-10-31""",false
+905,Services,Engineering,v1,38827.65,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",false
+906,Services,Engineering,v1,64816.99,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+907,Services,Engineering,v3,61550.85,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+908,Supply,Airport,v4,62891.2,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+909,Construction,Port,v5,22315.7,Net 45,PayPal,"error: invalid date ""2022-10-31""",true
+910,Services,Bridge and Highway,v1,30118.94,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",false
+911,Services,Public Works,v5,603.81,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+912,Supply,Engineering,v1,71807.15,Net 30,Credit Card,"error: invalid date ""2022-10-31""",false
+913,Supply,Engineering,v5,4246.19,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+914,Services,Port,v2,74641.78,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+915,Maintenance,Port,v5,45835.98,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",true
+916,Supply,Engineering,v3,66696.97,Net 45,PayPal,"error: invalid date ""2022-10-31""",true
+917,Construction,Public Works,v5,83615.22,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+918,Construction,Engineering,v4,14642.96,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+919,Services,Engineering,v3,5978.04,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+920,Services,Public Works,v1,5164.36,Net 30,Bank Transfer,"error: invalid date ""2022-10-31""",false
+921,Services,Airport,v5,57223.33,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+922,Supply,Engineering,v3,16630.68,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+923,Maintenance,Engineering,v1,81832.27,Net 30,PayPal,"error: invalid date ""2022-10-31""",true
+924,Construction,Engineering,v2,37552.58,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+925,Maintenance,Port,v1,19252.41,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+926,Services,Public Works,v2,85299.79,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+927,Supply,Engineering,v4,71888.0,Net 30,Credit Card,"error: invalid date ""2022-10-31""",true
+928,Construction,Engineering,v5,31986.51,Net 30,PayPal,"error: invalid date ""2022-10-31""",true
+929,Services,Engineering,v5,48743.73,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",false
+930,Construction,Port,v4,43347.83,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+931,Services,Bridge and Highway,v2,82907.85,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+932,Construction,Airport,v2,16242.0,Net 30,Bank Transfer,"error: invalid date ""2022-10-31""",true
+933,Services,Engineering,v1,41937.52,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+934,Maintenance,Transportation,v5,34710.04,Net 30,Credit Card,"error: invalid date ""2022-10-31""",false
+935,Services,Engineering,v1,85652.23,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+936,Services,Bridge and Highway,v5,26849.15,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+937,Supply,Engineering,v1,88920.06,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+938,Supply,Engineering,v4,54166.16,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+939,Services,Engineering,v2,53016.87,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+940,Construction,Engineering,v1,47102.47,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",false
+941,Services,Bridge and Highway,v1,98719.37,Net 45,Bank Transfer,"error: invalid date ""2022-10-31""",false
+942,Maintenance,Bridge and Highway,v1,53700.2,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+943,Services,Engineering,v1,70471.76,Net 45,Bank Transfer,"error: invalid date ""2022-10-31""",false
+944,Services,Public Works,v3,64684.08,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",true
+945,Construction,Public Works,v1,3083.59,Net 45,PayPal,"error: invalid date ""2022-10-31""",false
+946,Construction,Engineering,v3,24030.68,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+947,Services,Bridge and Highway,v5,33978.04,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+948,Supply,Public Works,v2,88805.09,Net 30,Credit Card,"error: invalid date ""2022-10-31""",true
+949,Construction,Public Works,v1,28243.25,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+950,Services,Public Works,v1,20076.2,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+951,Supply,Engineering,v3,19170.44,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+952,Supply,Engineering,v4,83941.34,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+953,Construction,Engineering,v5,8478.92,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+954,Services,Bridge and Highway,v2,14273.19,Net 45,Bank Transfer,"error: invalid date ""2022-10-31""",false
+955,Supply,Engineering,v2,44594.65,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+956,Services,Engineering,v1,7954.71,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+957,Services,Engineering,v4,69823.76,Net 30,PayPal,"error: invalid date ""2022-10-31""",false
+958,Services,Port,v2,24302.95,Net 45,Bank Transfer,"error: invalid date ""2022-10-31""",true
+959,Services,Airport,v5,89445.62,Net 30,PayPal,"error: invalid date ""2022-10-31""",false
+960,Supply,Port,v2,57895.73,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+961,Services,Engineering,v2,18418.65,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+962,Services,Public Works,v2,46457.74,Net 45,Bank Transfer,"error: invalid date ""2022-10-31""",false
+963,Services,Port,v2,85090.86,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+964,Maintenance,Transportation,v3,58185.93,Net 30,PayPal,"error: invalid date ""2022-10-31""",false
+965,Supply,Engineering,v4,62273.72,Net 45,PayPal,"error: invalid date ""2022-10-31""",true
+966,Services,Transportation,v3,61002.54,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",false
+967,Services,Engineering,v1,29011.65,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+968,Construction,Engineering,v1,45669.05,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+969,Supply,Bridge and Highway,v3,79252.44,Net 45,Credit Card,"error: invalid date ""2022-10-31""",false
+970,Construction,Engineering,v5,70703.47,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",true
+971,Supply,Engineering,v2,6464.24,Net 30,Bank Transfer,"error: invalid date ""2022-10-31""",false
+972,Maintenance,Airport,v5,1484.3,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",false
+973,Services,Engineering,v3,92724.09,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+974,Supply,Public Works,v4,83302.69,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+975,Services,Engineering,v1,5357.76,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",false
+976,Services,Bridge and Highway,v1,783.84,Net 30,PayPal,"error: invalid date ""2022-10-31""",false
+977,Supply,Transportation,v4,93331.76,Net 45,Credit Card,"error: invalid date ""2022-10-31""",true
+978,Services,Engineering,v2,37435.54,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+979,Services,Port,v5,22641.55,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+980,Services,Bridge and Highway,v2,76587.4,Net 30,PayPal,"error: invalid date ""2022-10-31""",false
+981,Construction,Engineering,v3,10161.89,Net 30,PayPal,"error: invalid date ""2022-10-31""",true
+982,Supply,Airport,v4,35524.16,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+983,Supply,Airport,v1,77874.79,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+984,Construction,Bridge and Highway,v1,10633.99,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",false
+985,Supply,Engineering,v5,14612.89,Net 45,PayPal,"error: invalid date ""2022-10-31""",true
+986,Supply,Public Works,v4,19881.85,Net 45,PayPal,"error: invalid date ""2022-10-31""",false
+987,Services,Public Works,v5,46894.95,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+988,Maintenance,Bridge and Highway,v2,3315.26,Net 45,Bank Transfer,"error: invalid date ""2022-10-31""",true
+989,Construction,Public Works,v3,25456.64,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+990,Construction,Public Works,v1,17257.52,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+991,Services,Engineering,v2,9407.48,Net 45,Bank Transfer,"error: invalid date ""2022-10-31""",true
+992,Supply,Public Works,v4,28956.29,Net 60,Bank Transfer,"error: invalid date ""2022-10-31""",false
+993,Services,Engineering,v5,98389.39,Net 45,Bank Transfer,"error: invalid date ""2022-10-31""",true
+994,Supply,Engineering,v4,37802.12,Net 60,Credit Card,"error: invalid date ""2022-10-31""",false
+995,Services,Engineering,v5,23953.13,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+996,Services,Port,v5,35043.8,Net 60,PayPal,"error: invalid date ""2022-10-31""",false
+997,Services,Engineering,v3,96454.89,Net 60,PayPal,"error: invalid date ""2022-10-31""",true
+998,Construction,Public Works,v1,3051.87,Net 60,Credit Card,"error: invalid date ""2022-10-31""",true
+999,Supply,Port,v4,47700.5,Net 45,PayPal,"error: invalid date ""2022-10-31""",false
+1000,Supply,Engineering,v2,86818.6,Net 30,Credit Card,"error: invalid date ""2022-10-31""",true
